@@ -1,0 +1,3435 @@
+<!DOCTYPE html >
+
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+
+<head>
+
+
+<!-- google analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-193616-4', 'auto');
+    
+ ga('send', 'pageview');
+</script>
+<!-- end google analytics -->
+
+
+<meta name="prism.channel" content="fnc" /> 
+<meta name="prism.section" content="radio" /> 
+<meta name="prism.subsection1" content="" /> 
+<meta name="prism.subsection2" content="" /> 
+<meta name="prism.subsection3" content="" /> 
+<meta name="prism.subsection4" content="" />
+
+
+<script type="text/javascript" src="https://radio.foxnews.com/wp-content/js/getElementsByClassName.polyfill.js">
+</script>
+
+
+<script type="text/javascript" src="https://radio.foxnews.com/wp-content/js/media.match.js">
+</script>
+
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://radio.foxnews.com/xmlrpc.php" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ <link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/radio.foxnews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=c6c246594a63b10bb3a4a7a2072d6bd8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://radio.foxnews.com/wp-includes/css/dist/block-library/style.min.css?ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://radio.foxnews.com/wp-content/themes/Newspaper/style.css?ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-opensans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-pt-sans-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-oswald-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-roboto-cond-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-vollkorn-css'  href='https://fonts.googleapis.com/css?family=Vollkorn%3A400italic%2C700italic%2C400%2C700&#038;ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Ubuntu%3A400%2C700&#038;ver=c6c246594a63b10bb3a4a7a2072d6bd8' type='text/css' media='all' />
+<link rel='stylesheet' id='td-bootstrap-css'  href='https://radio.foxnews.com/wp-content/themes/Newspaper/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://radio.foxnews.com/wp-content/themes/Newspaper-child/style.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://radio.foxnews.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3.19.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-icomoon-css'  href='https://radio.foxnews.com/wp-content/uploads/smile_fonts/icomoon/icomoon.css?ver=3.19.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-GooglePlay-css'  href='https://radio.foxnews.com/wp-content/uploads/smile_fonts/GooglePlay/GooglePlay.css?ver=3.19.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-podcasticon-css'  href='https://radio.foxnews.com/wp-content/uploads/smile_fonts/podcasticon/podcasticon.css?ver=3.19.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-style-min-css'  href='https://radio.foxnews.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.19.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/themes/Newspaper-child/js/popup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.19.4'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.4'></script>
+<link rel='https://api.w.org/' href='https://radio.foxnews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://radio.foxnews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://radio.foxnews.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://radio.foxnews.com/" />
+<link rel='shortlink' href='https://radio.foxnews.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://radio.foxnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fradio.foxnews.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://radio.foxnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fradio.foxnews.com%2F&#038;format=xml" />
+<link rel="alternate" type="application/json" title="FOX News Radio &raquo; JSON Feed" href="https://radio.foxnews.com/feed/json/" /><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+
+<!-- Style compiled by theme -->
+
+<style>
+    
+.block-title a,
+    .block-title span,
+    .td-tags a:hover,
+    .td-scroll-up-visible,
+    .td-scroll-up,
+    .sf-menu ul .current-menu-item > a,
+    .sf-menu ul a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .td-menu-item > a:hover,
+    .td-rating-bar-wrap div,
+    .iosSlider .slide-meta-cat,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .td-404-sub-sub-title a,
+    .widget_tag_cloud .tagcloud a:hover,
+    .td-mobile-close a,
+    ul.td-category a,
+    .td_social .td_social_type .td_social_button a,
+    .dropcap,
+    .td-forum-category-title .td-forum-category-name,
+    .td_display_err,
+    .td_block_mega_menu .td-ajax-next-page:hover,
+    .td_block_mega_menu .td_ajax-prev-page:hover,
+    .post-via span,
+    .td_wrapper_video_playlist
+    .td_video_controls_playlist_wrapper
+    {
+        background-color: #000000;
+    }
+
+
+    .block-title,
+    .sf-menu li a:hover,
+    .sf-menu .sfHover a,
+    .sf-menu .current-menu-ancestor a,
+    .sf-menu .current-category-ancestor a,
+    .header-search-wrap
+    .dropdown-menu,
+    .sf-menu > .current-menu-item > a,
+    .ui-tabs-nav,
+    .woocommerce .product .woocommerce-tabs ul.tabs,
+    .td-forum-list-head,
+    .td-login-panel-title
+    {
+        border-color: #000000;
+    }
+
+    .widget_price_filter .ui-slider-handle,
+    .td_wrapper_video_playlist .td_video_currently_playing:after
+    {
+        border-color: #000000 !important;
+    }
+
+    .author-box-wrap .td-author-name a,
+    blockquote p,
+    .page-nav a:hover,
+    .widget_pages .current_page_item a,
+    .widget_calendar td a,
+    .widget_categories .current-cat > a,
+    .widget_pages .current_page_parent > a,
+    .td_pull_quote p,
+    .page-nav-post a:hover span,
+    .td-forum-last-comment-content .td-forum-last-author,
+    .td-topics-title-details a,
+    .td-posted-in a
+    {
+        color: #000000;
+    }
+
+    .woocommerce .button,
+    .woocommerce .form-submit #submit,
+    .widget_price_filter .ui-slider-handle,
+    .jetpack_subscription_widget input[type="submit"],
+    .pp_woocommerce .pp_close,
+    .pp_woocommerce .pp_expand,
+    .pp_woocommerce .pp_contract,
+    .pp_woocommerce .pp_arrow_previous,
+    .pp_woocommerce .pp_arrow_next,
+    .pp_woocommerce
+    .pp_next:before,
+    .pp_woocommerce .pp_previous:before,
+    #bbpress-forums .button
+    {
+        background: #000000 !important;
+    }
+
+    .woocommerce .woocommerce-message,
+    .woocommerce .woocommerce-info,
+    .bbp-template-notice,
+    .td-reply-list-header
+    {
+        border-color: #000000 !important;
+    }
+
+
+    .woocommerce .woocommerce-message:before,
+    .woocommerce .woocommerce-info:before,
+    .td-login-button
+    {
+        background-color: #000000 !important;
+    }
+
+
+    .buddypress #buddypress div.dir-search input[type="submit"],
+    .buddypress #buddypress .message-search input[type="submit"],
+    .buddypress #buddypress .item-list-tabs ul li.selected a,
+    .buddypress #buddypress .generic-button a,
+    .buddypress #buddypress .submit input[type="submit"],
+    .buddypress #buddypress .ac-reply-content input[type="submit"],
+    .buddypress #buddypress .standard-form input[type="submit"],
+    .buddypress #buddypress .standard-form .button-nav .current a,
+    .buddypress #buddypress .standard-form .button,
+    .buddypress #buddypress input[type="submit"],
+    .buddypress #buddypress a.accept,
+    .buddypress #buddypress #activate-page .standard-form input[type="submit"],
+    .buddypress #buddypress .standard-form #group-create-body input[type="button"],
+    .post-password-required input[type="submit"]
+    {
+        background: #000000 !important;
+    }
+
+    .buddypress #buddypress .groups .item-meta,
+    .bbp-forum-title:hover,
+    .td_login_tab_focus,
+    .block-mega-child-cats a.cur-sub-cat
+    {
+        color: #000000 !important;
+    }
+
+    .page-nav .current,
+    .page-nav-post span
+    {
+        background-color: #000000;
+        border-color: #000000;
+    }
+
+
+    .wpb_btn-inverse,
+    .ui-tabs-nav .ui-tabs-active a,
+    .post .wpb_btn-danger,
+    .form-submit input,
+    .wpcf7-submit,
+    .wpb_default,
+    .woocommerce .product .woocommerce-tabs ul.tabs li.active,
+    .woocommerce.widget_product_search input[type="submit"],
+    .more-link-wrap,
+    .td_read_more {
+        background-color: #000000 !important;
+    }
+
+
+    .header-search-wrap .dropdown-menu:before {
+        border-color: transparent transparent #000000;
+    }
+
+
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content a:hover
+    {
+        color: #000000 !important;
+    }
+
+
+    .category .entry-content,
+    .tag .entry-content,
+    .td_quote_box
+    {
+        border-color: #000000;
+    }
+
+    .td-timeline-block-title {
+        background-color: #000000 !important;
+    }
+
+    .td-timeline-wrapper-links {
+       border-color: #000000 !important;
+    }
+
+    .td-timline-h1-link  span {
+        background-color: #000000 !important;
+    }
+
+    .td-page-title .td-search-query {
+         color: #000000;
+    }
+
+     
+    .td-sbig-title-wrap .td-sbig-title,
+    .td-slide-item-sec .td-sbig-title-wrap,
+    .td-big-grid-title .td-sbig-title-wrap
+    {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    
+    ::-moz-selection {
+        background: #323232;
+        color: #fff;
+    }
+
+    ::selection {
+        background: #323232;
+        color: #fff;
+    }
+
+
+
+    
+    .td-full-layout .td-menu-background {
+        background: #3f3f3f !important;
+    }
+
+    .td-boxed-layout .td-menu-background .td-menu-wrap {
+        background: #3f3f3f !important;
+    }
+
+
+    
+    .header-logo-wrap .td-logo-text,
+    .header-logo-wrap .td-tagline-text
+    {
+        color: #000000 !important;
+    }
+
+
+
+    
+    .td-logo-rec-wrap, .td-full-logo {
+        background-color: transparent !important;
+    }
+
+
+    
+    .td-full-layout .td-header-menu-wrap {
+        background-color: #444444 !important;
+    }
+
+    .td-boxed-layout .td-header-menu-wrap .container {
+        background-color: #444444 !important;
+    }
+
+	
+	
+	a, .widget_recent_comments .recentcomments .url {
+		color: #bc2b2b;
+    }
+    .cur-sub-cat {
+      color:#bc2b2b !important;
+    }
+    .blog-stack .sf-menu .current-menu-item a,
+    .blog-stack .sf-menu .current-menu-parent .current-menu-item a,
+    .blog-stack .sf-menu .current-menu-parent > a,
+    .blog-stack .sf-menu > li:hover > a,
+    .blog-stack .sf-menu ul li:hover > a,
+    .blog-stack .td-post-text-content .more-link-wrap:hover a,
+    .blog-stack .sf-menu ul .td_mega_menu_sub_cats a.cur-sub-cat,
+    .blog-stack .sf-menu ul .td_mega_menu_sub_cats a.cur-sub-cat:hover,
+    .blog-stack .td-mega-menu .block-mega-child-cats a:hover,
+    .blog-stack .td_mod_mega_menu:hover .item-details a,
+    .blog-stack .sf-menu .current-menu-ancestor > a,
+    .blog-stack .sf-menu .current-category-ancestor > a
+    {
+        color:#bc2b2b;
+    }
+
+
+    .blog-stack .sf-menu > .current-menu-ancestor > a,
+    .blog-stack .sf-menu > .current-category-ancestor > a
+    {
+        color:#bc2b2b !important;
+    }
+
+    .blog-stack .sf-menu ul li {
+        background-color: #bc2b2b;
+    }
+
+    .blog-stack .td-post-text-content .more-link-wrap a:hover {
+        outline-color: #bc2b2b;
+    }
+
+	
+	
+	a:hover,
+	.widget_recent_comments .recentcomments .url:hover
+	{
+		color: #bc2b2b;
+    }
+
+
+    
+    .td-full-layout .td-footer-wrap,
+    .td-boxed-layout .td-footer-wrap .span12
+    {
+         background: #494949 url('https://radio.foxnews.com/wp-content/themes/Newspaper/images/footer/top-shadow.png') repeat-x top;
+    }
+
+
+    
+    .td-full-layout .td-sub-footer-wrap,
+    .td-boxed-layout .td-sub-footer-wrap .container
+    {
+        background-color: #3f3f3f;
+    }
+
+
+    
+    .td-footer-wrap,
+    .td-footer-wrap a,
+    .td-footer-wrap .td_top_authors .td-authors-name a
+    {
+        color: #000000;
+    }
+
+    .td-footer-wrap .entry-title a {
+        color: #000000 !important;
+    }
+
+    .td_top_authors .td_mod_wrap:hover  {
+        background-color: transparent !important;
+    }
+
+
+    
+    .td-sub-footer-copy, .td-sub-footer-wrap a {
+        color: #ffffff !important;
+    }
+    .td-sub-footer-menu li a:before {
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+
+
+    
+    .top-header-menu li a:before {
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+
+
+    
+    .td-menu-header .td-sp,
+    .sf-sub-indicator{
+        background-image: url('https://radio.foxnews.com/wp-content/themes/Newspaper/images/header/elements-menu.png');
+    }
+
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (-moz-min-device-pixel-ratio: 2),
+    only screen and (min-device-pixel-ratio: 2) {
+        .td-menu-header .td-sp, .sf-sub-indicator{
+            background-image: url('https://radio.foxnews.com/wp-content/themes/Newspaper/images/header/elements-menu@2x.png');
+        }
+    }
+
+
+
+
+
+
+
+    
+    .post header h1, .post header h1 a {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    body .td-post-text-content {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .post .td-post-text-content h4 {
+        font-family:Ubuntu;
+	color:#000000;
+	
+    }
+
+    
+    .page-template-default h1.td-page-title span,
+    .page-template-page-pagebuilder-title-php h1.td-page-title span{
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h1 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h2 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h3 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h4 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h5 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h6 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content blockquote.td_quote_left p,
+    .page-template-default .td-page-text-content blockquote.td_quote_right p,
+    .page-template-default .td-page-text-content blockquote:not(.td-quote-classic):not(.td_quote_box):not(.td_pull_quote) p {
+        font-family:Ubuntu;
+	
+    }
+
+
+    
+    .page-template-default .td-page-text-content blockquote.td-quote-classic p {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content .td-quote-author p {
+        font-family:Ubuntu;
+	
+    }
+
+
+
+
+
+
+
+
+    
+    .td-header-menu-wrap li a, .td-header-menu-wrap .td_data_time {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .sf-menu > .td-menu-item > a {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .sf-menu ul .td-menu-item a, .td_mega_menu_sub_cats .block-mega-child-cats a{
+        font-family:Ubuntu;
+	color:#000000;
+	
+    }
+
+
+    
+    .td_block_wrap .block-title a, .block-title span, .block-title label {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .td_mod2 .entry-title a, .td_mod5 .entry-title a, .td_mod6 .entry-title a, .td_mod_search .entry-title a {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .td_mod3 .entry-title a, .td_mod4 .entry-title a, .td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    body .td-post-text-excerpt {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .ui-tabs-nav a, .ui-tabs-nav .ui-tabs-active a {
+        font-family:Ubuntu;
+	
+    }
+body {
+background-color:#f4f4f4;
+                    }
+</style>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.is_ajax_running = false;
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="https://radio.foxnews.com/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="https://radio.foxnews.com/wp-content/themes/Newspaper";
+var tds_snap_menu="smart_snap_mobile";
+var tds_header_style="";
+var tds_mobile_swipe="";
+var td_search_url="https://radio.foxnews.com/search/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="2";
+var tds_more_articles_on_post_pages_distance_from_top="0";
+var tds_theme_color_site_wide="#000000";
+</script>
+
+<style type="text/css" data-type="vc_custom-css">.entry-crumbs {
+    display: none;
+}
+
+.block-title {
+  position: relative;
+  font-family: 'ubuntu', sans-serif;
+  border-bottom: 2px solid #cb0000;
+  font-size: 18px;
+  margin: 0px 0px 26px 0px;
+  line-height: 32px;
+  font-weight: normal;
+}
+
+.block-title a,
+.block-title span,
+.block-title label {
+  /* label is for jetpack */
+  /*background-color: #cb0000;*/
+  z-index: 1;
+  color: white ;
+  font-family: 'ubuntu', sans-serif;
+  padding: 3px 10px 3px 10px;
+}
+
+.td_mod_wrap .entry-title a {
+  font-family: 'PT Sans', sans-serif;
+  color: #222222;
+  font-weight: normal;
+}
+
+ .block-title,
+    .sf-menu li a:hover,
+    .sf-menu .sfHover a,
+    .sf-menu .current-menu-ancestor a,
+    .sf-menu .current-category-ancestor a,
+    .header-search-wrap
+    .dropdown-menu,
+    .sf-menu > .current-menu-item > a,
+    .ui-tabs-nav,
+    .woocommerce .product .woocommerce-tabs ul.tabs,
+    .td-forum-list-head,
+    .td-login-panel-title
+    {
+        border-color: #cb0000;
+    }
+    
+    .td_block_wrap  {
+        padding-bottom: 0px;
+    }
+
+/* Sets Carousel Images Size for older IE */
+.vc_single_image-img   {
+/*width: 105px !important;*/
+}
+
+.entry-date.updated  {
+display: none;
+}
+
+#td_uid_6_5556231ec67a7  {
+    font-weight: bold;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1584449632932{margin-bottom: 20px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: rgba(30,115,190,0.15) !important;*background-color: rgb(30,115,190) !important;}.vc_custom_1430486165756{padding: 5px !important;}.vc_custom_1430490310963{margin: 16px !important;padding: 5px !important;}.vc_custom_1430490310963{margin: 16px !important;padding: 5px !important;}.vc_custom_1542129681184{padding-bottom: 50px !important;background-color: #f2f2f2 !important;}.vc_custom_1557516220387{margin-right: 10px !important;}.vc_custom_1557516110216{margin-top: 8px !important;margin-left: -5px !important;padding-top: 5px !important;padding-left: -15px !important;}.vc_custom_1430857582354{margin-top: 40px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!-- START - Open Graph and Twitter Card Tags 3.0.0 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="FOX News Radio"/>
+  <meta property="og:title" content="FOX News Radio"/>
+  <meta property="og:url" content="https://radio.foxnews.com"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="FOX News Radio"/>
+  <meta property="og:image" content="https://radio.foxnews.com/wp-content/uploads/2020/02/america-is-listening-twitter.png"/>
+  <meta property="og:image:url" content="https://radio.foxnews.com/wp-content/uploads/2020/02/america-is-listening-twitter.png"/>
+  <meta property="og:image:secure_url" content="https://radio.foxnews.com/wp-content/uploads/2020/02/america-is-listening-twitter.png"/>
+  <meta property="fb:app_id" content="108927045863499"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="FOX News Radio"/>
+  <meta itemprop="headline" content="FOX News Radio"/>
+  <meta itemprop="description" content="FOX News Radio"/>
+  <meta itemprop="image" content="https://radio.foxnews.com/wp-content/uploads/2020/02/america-is-listening-twitter.png"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="FOX News Radio"/>
+  <meta name="twitter:url" content="https://radio.foxnews.com"/>
+  <meta name="twitter:image" content="https://radio.foxnews.com/wp-content/uploads/2020/02/america-is-listening-twitter.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+  <meta name="description" content="FOX News Radio"/>
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 3.0.0 -->
+	
+
+<script type="text/javascript" src="https://radio.foxnews.com/wp-content/js/getElementsByClassName.polyfill.js">
+</script>
+
+<script type="text/javascript" src="https://radio.foxnews.com/wp-content/js/media.match.js">
+</script>
+
+<script type="text/javascript" src="https://radio.foxnews.com/sched/sched/output/js_schedule?03172020">
+</script>
+
+
+<!-- Script to unhide (make visible) the Audio player Div.  Not seen in source unless on the Account page -->
+<!-- end unhide code -->
+
+<!-- Script to resize account page iFrame -->
+
+
+<!-- End Script to resize account page iFrame -->
+
+<!-- TITLE and GOOGLE related code -->
+
+
+<title>FOX News Radio</title>
+
+<!-- END TITLE CODE -->
+
+
+<!-- network bar -->
+
+<script>
+(function($){
+    $.ad.pre();
+    $(window).load(function(){ $.ad.init(); });
+}(jQuery));
+</script>
+
+
+
+ <!-- Twitter Share -->
+ 
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+ 
+<!-- DNS 1.1 -->
+<script>
+window.dns_attr = (function(name){
+    var val = null;
+    if (document.cookie && document.cookie !== "") {
+        var cookies = document.cookie.split(";");
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = (cookies[i] || '').replace(/^\s+|\s+$/g, '');
+            if (cookie.substring(0, name.length + 1) === name + "=") {
+                val = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return (val === '1YYY') ? ' data-restrict-data-processing="1" ' : '';
+})('usprivacy');
+</script>
+<!-- // -->
+
+
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-8d32c987-c1d0-4e6f-a565-189ad8386b84","rua.cook":"true","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="EMV7A-QMPQB-A54R2-N5NTG-84WMY",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,_,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",_=document.getElementsByTagName("script")[0],_.parentNode.insertBefore(r,_);try{o=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=r.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"EMV7A-QMPQB-A54R2-N5NTG-84WMY",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e="false"=="true"?1:0,t="cookiepresent",n="b3y75uixzcmu6xx2yvea-f-e5bb2c888-clientnsv4-s.akamaihd.net",i={"ak.v":"27","ak.cp":"412186","ak.ai":parseInt("265669",10),"ak.ol":"0","ak.cr":95,"ak.ipv":4,"ak.proto":"","ak.rid":"175c161c","ak.r":37097,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"14.241.254.0","ak.cport":50747,"ak.gh":"184.51.102.166","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1593492808","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==fniNLbxmB5Eo6Utr9+kS2ehJIdHMDCuVSFq2FDBkKBhtGvpxCeq7JxcUJGkDSbdINfOqLEcKiPHndjGeGDz5vcuyhQJR7GRnN8m2XhhSN+epRQ1HsRZVEzPhiBhTVoGe+1SLPYhpbZBHfsTEJK08lWUfsRfW/QNIUFhIsgoPM3yG1sFTqa6mBlR0yw9Y08JdTT/2HEQfcduKUULcMwDCn/pnyJN6PTHRSoZaCRptQEYOOV6k1sppaV838DFwx8r/dL06GxxzjOCcDDUv9LtD+kRea0UmCWoiZPggBAYT+yj3PjZBYVzij00gwxizb5gzHADpH7IDgd7BUjQU4fwEYRWBtrKCiZ5poguW30UBGn0orU931PfTZojB2HSR02u74Mxpf9oBXevKIp7VruRTFMhpbYLW7j4gXYEE0idL5Pg=","ak.pv":"78"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+<body class="home page-template-default page page-id-63867 td-boxed-layout front-page wpb-js-composer js-comp-ver-6.2.0 vc_responsive">
+
+<script src="https://widget-modal-v2-prod.firebaseapp.com/start.js"></script>
+
+
+         <!-- breaking news -->
+			               <!-- /end breaking -->
+
+
+			    <!-- anchored coverage -->
+			                              
+		   
+		   
+          <!-- promo bar -->
+			               <!-- /end breaking -->
+
+
+<div id="outer-wrap">
+    <div id="td-mobile-nav" class="td-transition-content-and-menu">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-top-nav-container"><ul id="menu-top-nav" class=""><li id="menu-item-40222" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first td-no-down-arrow menu-item-40222"><a title="Home Page" href="https://radio.foxnews.com" aria-current="page"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li id="menu-item-40430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40430"><a href="https://radio.foxnews.com/listen/">How to Listen</a></li>
+<li id="menu-item-40234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40234"><a href="/fox-news-talk/">FOX News Talk Shows</a></li>
+<li id="menu-item-40224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-40224"><a href="/podcast">Podcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-40241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40241"><a href="/account">Premium Podcast Account Access</a></li>
+	<li id="menu-item-47281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47281"><a href="/podcast/#talk">FOX News Talk Radio Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-170442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170442"><a href="https://radio.foxnews.com/podcast/fox-news-talk-podcast/">FOX News Talk All-In-One Podcast</a></li>
+		<li id="menu-item-47256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47256"><a href="https://radio.foxnews.com/podcast/brian-kilmeade-show/">Brian Kilmeade Show</a></li>
+		<li id="menu-item-154095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154095"><a href="https://radio.foxnews.com/podcast/guy-benson-show-premium-podcast/">Guy Benson Show</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47279"><a href="/podcast/#channel">FOX News Channel Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47273"><a href="https://radio.foxnews.com/podcast/megacast-podcast/">MEGAcast All-In-One Podcast</a></li>
+		<li id="menu-item-47272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47272"><a href="https://radio.foxnews.com/podcast/fox-friends-tv-show/">FOX &#038; Friends</a></li>
+		<li id="menu-item-55373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55373"><a href="https://radio.foxnews.com/podcast/outnumbered-tv-podcast/">Outnumbered</a></li>
+		<li id="menu-item-170440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170440"><a href="https://radio.foxnews.com/podcast/the-daily-briefing-with-dana-perino/">The Daily Briefing With Dana Perino</a></li>
+		<li id="menu-item-47271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47271"><a href="https://radio.foxnews.com/?page_id=7127">Shepard Smith Reporting</a></li>
+		<li id="menu-item-47270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47270"><a href="https://radio.foxnews.com/podcast/your-world-w-neil-cavuto-premium-podcast/">Your World with Neil Cavuto</a></li>
+		<li id="menu-item-47266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47266"><a href="https://radio.foxnews.com/podcast/the-5-podcast/">The Five</a></li>
+		<li id="menu-item-47263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47263"><a href="https://radio.foxnews.com/podcast/special-report-w-bret-baier/">Special Report with Bret Baier</a></li>
+		<li id="menu-item-47268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47268"><a href="https://radio.foxnews.com/podcast/the-kelly-file-premium-podcast/">Tucker Carlson Tonight</a></li>
+		<li id="menu-item-47261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47261"><a href="https://radio.foxnews.com/podcast/sean-hannity-tv-show/">Hannity</a></li>
+		<li id="menu-item-170441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170441"><a href="https://radio.foxnews.com/podcast/the-ingraham-angle/">The Ingraham Angle</a></li>
+		<li id="menu-item-47253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47253"><a href="https://radio.foxnews.com/podcast/mediabuzz-with-howard-kurtz-premium-podcast/">#mediabuzz</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47280"><a href="/podcast/#fbn">FOX Business Network Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-135767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135767"><a href="https://radio.foxnews.com/podcast/mornings-with-maria-premium-podcast/">Mornings With Maria</a></li>
+		<li id="menu-item-135768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135768"><a href="https://radio.foxnews.com/podcast/varney-and-company-premium-podcast/">Varney and Company</a></li>
+		<li id="menu-item-47275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47275"><a href="https://radio.foxnews.com/podcast/cavuto-fbn-premium-podcast/">Cavuto</a></li>
+		<li id="menu-item-47257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47257"><a href="https://radio.foxnews.com/podcast/lou-dobbs-tonight-tv-podcast/">Lou Dobbs Tonight</a></li>
+		<li id="menu-item-60200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60200"><a href="https://radio.foxnews.com/podcast/kennedy-podcast/">Kennedy</a></li>
+	</ul>
+</li>
+	<li id="menu-item-51446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-51446"><a href="https://radio.foxnews.com/podcast#free">Free Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-51447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51447"><a href="https://radio.foxnews.com/podcast#freetalk">Free FOX News Talk Podcasts</a></li>
+		<li id="menu-item-51448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51448"><a href="https://radio.foxnews.com/podcast#free">Free FOX News Radio Podcasts</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-40300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40300"><a href="https://radio.foxnews.com/station-finder/">Station Finder</a></li>
+</ul></div>    </div>
+</div>    <div id="inner-wrap" class="td-transition-content-and-menu">
+
+
+<!-- graphic logo and ad -->
+<div class="td-header-bg">
+    <div class="container td-logo-rec-wrap">
+        <div class="row">
+            <div class="span4 header-logo-wrap" role="banner" itemscope="itemscope" itemtype="https://schema.org/Organization">
+                
+
+<script type="text/javascript">
+    	
+	function handleOrientationChange(mql) {			
+		if (mql.matches) {
+			// Media query does match
+document.getElementsByClassName('span4')[0].innerHTML = ("<div style='width: 400px; display: table;'><a href=\"https://radio.foxnews.com\"><img src='https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png' align='left' border='0' style='margin-right: 10px; width: 90px; height: 90px;' alt='FOX News'></a><p style='line-height: 50%;'>&nbsp;</p><span style='font-weight: bold; font-size: 100%'>ON NOW: "+ writeShowName().toUpperCase()+"</span><br><a href=\"javascript:void(0)\"onclick=\"window.open(\'https://radio.foxnews.com/player-files/radio.php\',\'radioWin\',\'width=600,height=425\')\" style=\"color:#c01f2f;font-weight: bold; font-size: 110%;\">Listen</a> | <a href=\"https://nation.foxnews.com/\" target=\"_blank\" style=\"color:#c01f2f; font-weight: bold; font-size: 110%;\">Watch</a><span style=\"font-size: 110%;\"><strong> FOX News Talk</strong></span></div>");
+        } else {
+            // Media query does not match anymore
+document.getElementsByClassName('span4')[0].innerHTML = ("<div id='listenwatch' style='width: 400px;'><a href=\"https://radio.foxnews.com\"><img src='https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png' align='left' border='0' style='margin-left: 0px; margin-right: 10px; display: block !important; width: 60px; height: 60px;'></a><span style='font-weight: bold; font-size: 100%'>ON NOW: "+ writeShowName().toUpperCase()+"</span><br><a href=\"javascript:void(0)\"onclick=\"window.open(\'https://radio.foxnews.com/player-files/radio.php\',\'radioWin\',\'width=600,height=425\')\" style=\"color:#c01f2f; font-weight: bold; font-size: 110%\">Listen</a> | <a href=\'javascript:void(0)\' onclick=\"window.open(\'https://radio.foxnews.com/video.html\', \'_blank\', \'top=200,left=200,width=790,height=283\')\" style=\"color:#c01f2f; font-weight:bold; font-size: 110%\">Watch</a><strong> FOX News Talk</strong></div>");
+        }
+	}
+       var mql = window.matchMedia( "(min-width: 768px)" );
+        mql.addListener(handleOrientationChange);
+        handleOrientationChange(mql);  
+	   
+</script>
+
+<script type="text/javascript">
+/*
+$('.span4').animate({
+	'margin-left':'50px'
+}, 500, function(e){
+$('.span4').animate({
+	'margin-left':'0px'
+}, 500)});
+*/
+</script>
+                        <meta itemprop="name" content="FOX News Radio">
+                                   </div>
+            <div class="span8 td-header-style-1">
+                            </div>
+        </div>
+    </div>
+</div><!-- header menu -->
+<script>
+/*window._Track = window._Track || function(id) {
+	window.leapmetrics = window.leapmetrics || [];
+	window.leapmetrics.push(function(Leap){
+		Leap.track(id).then(function(){
+			// go to search page
+		});
+	});
+}*/
+</script>
+<div class="td-menu-placeholder">
+
+    <div class="td-menu-background">
+        <div class="container td-menu-wrap">
+
+
+
+            <div class="row-fluid td-menu-header">
+
+                <div class="span11">
+                                            <div class="mobile-logo-wrap">
+                                    <a itemprop="url" href="https://radio.foxnews.com"><img src="https://radio.foxnews.com/wp-content/uploads/2015/03/FOX-News-Radio-Logo-Transparent-Bkgnd.gif" alt="FOX News Radio Logo"/></a>
+        <meta itemprop="name" content="FOX News Radio">
+                            </div>
+                    
+
+                    <div id="td-top-mobile-toggle">
+                        <ul class="sf-menu">
+                            <li>
+                                <a href="#">
+                                    <span class="menu_icon td-sp td-sp-ico-menu"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+                            <div class="menu-top-nav-container"><ul id="menu-top-nav-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first td-no-down-arrow td-menu-item td-normal-menu menu-item-40222"><a title="Home Page" href="https://radio.foxnews.com"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-40430"><a href="https://radio.foxnews.com/listen/">How to Listen</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-40234"><a href="/fox-news-talk/">FOX News Talk Shows</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-40224"><a href="/podcast">Podcasts</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-40241"><a href="/account">Premium Podcast Account Access</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-47281"><a href="/podcast/#talk">FOX News Talk Radio Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-170442"><a href="https://radio.foxnews.com/podcast/fox-news-talk-podcast/">FOX News Talk All-In-One Podcast</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47256"><a href="https://radio.foxnews.com/podcast/brian-kilmeade-show/">Brian Kilmeade Show</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-154095"><a href="https://radio.foxnews.com/podcast/guy-benson-show-premium-podcast/">Guy Benson Show</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-47279"><a href="/podcast/#channel">FOX News Channel Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47273"><a href="https://radio.foxnews.com/podcast/megacast-podcast/">MEGAcast All-In-One Podcast</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47272"><a href="https://radio.foxnews.com/podcast/fox-friends-tv-show/">FOX &#038; Friends</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-55373"><a href="https://radio.foxnews.com/podcast/outnumbered-tv-podcast/">Outnumbered</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-170440"><a href="https://radio.foxnews.com/podcast/the-daily-briefing-with-dana-perino/">The Daily Briefing With Dana Perino</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47271"><a href="https://radio.foxnews.com/?page_id=7127">Shepard Smith Reporting</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47270"><a href="https://radio.foxnews.com/podcast/your-world-w-neil-cavuto-premium-podcast/">Your World with Neil Cavuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47266"><a href="https://radio.foxnews.com/podcast/the-5-podcast/">The Five</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47263"><a href="https://radio.foxnews.com/podcast/special-report-w-bret-baier/">Special Report with Bret Baier</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47268"><a href="https://radio.foxnews.com/podcast/the-kelly-file-premium-podcast/">Tucker Carlson Tonight</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47261"><a href="https://radio.foxnews.com/podcast/sean-hannity-tv-show/">Hannity</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-170441"><a href="https://radio.foxnews.com/podcast/the-ingraham-angle/">The Ingraham Angle</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47253"><a href="https://radio.foxnews.com/podcast/mediabuzz-with-howard-kurtz-premium-podcast/">#mediabuzz</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-47280"><a href="/podcast/#fbn">FOX Business Network Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-135767"><a href="https://radio.foxnews.com/podcast/mornings-with-maria-premium-podcast/">Mornings With Maria</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-135768"><a href="https://radio.foxnews.com/podcast/varney-and-company-premium-podcast/">Varney and Company</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47275"><a href="https://radio.foxnews.com/podcast/cavuto-fbn-premium-podcast/">Cavuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47257"><a href="https://radio.foxnews.com/podcast/lou-dobbs-tonight-tv-podcast/">Lou Dobbs Tonight</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-60200"><a href="https://radio.foxnews.com/podcast/kennedy-podcast/">Kennedy</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-51446"><a href="https://radio.foxnews.com/podcast#free">Free Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-51447"><a href="https://radio.foxnews.com/podcast#freetalk">Free FOX News Talk Podcasts</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-51448"><a href="https://radio.foxnews.com/podcast#free">Free FOX News Radio Podcasts</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-40300"><a href="https://radio.foxnews.com/station-finder/">Station Finder</a></li>
+</ul></div>                    </div>
+
+
+
+                </div>
+
+                <div class="span1" id="td-top-search">
+                    <!-- Search -->
+                    <div class="header-search-wrap">
+                        <div class="dropdown header-search">
+                            <a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown" aria-label="search button"><span class="td-sp td-sp-ico-search"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="search-button">
+                                <form role="search" method="get" class="td-search-form" action="https://radio.foxnews.com/">
+                                    <div class="td-head-form-search-wrap">
+                                        <input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                                    </div>
+                                </form>
+                                <div id="td-aj-search"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div> <!-- /.row-fluid -->
+        </div> <!-- /.td-menu-wrap -->
+    </div> <!-- /.td-menu-background -->
+</div> <!-- /.td-menu-placeholder -->
+
+<script>
+$('.td-search-form').submit(function(){
+	var el = $(this);
+	window.leapmetrics = window.leapmetrics || [];
+	window.leapmetrics.push(function(Leap){
+		Leap.track('search:start').then(function(){
+			var s = el.find('#td-header-search').val();
+			window.open('//radio.foxnews.com/?s='+s, '_self');
+		});
+	});
+	return false;
+});
+</script>
+        <div class="container td-page-wrap">
+            <div class="row">
+                <div class="span12">
+                    <div class="td-grid-wrap">
+                        <div class="container-fluid">
+                            <div class="row-fluid ">
+                <div class="span12 column_container td-no-pagination" role="main" itemscope="itemscope" itemprop="mainContentOfPage" itemtype="https://schema.org/CreativeWork">
+
+            <div class="entry-crumbs"><span itemscope itemtype="https://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="https://radio.foxnews.com"><span itemprop="title">Home</span></a></span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="https://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "FOX News Radio">FOX News Radio</span></div>                    
+
+                    <div class="td-page-text-content"><div class="wpb_row row-fluid">
+	<div class="span12 onnowmargin wpb_column column_container vc_custom_1542129681184">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element  onnowpic" >
+		<div class="wpb_wrapper">
+			<h3>FOX News Talk Web Stream</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_raw_js" >
+		<div class="wpb_wrapper">
+			<script type='text/javascript'>
+var imageURL = writeAlbumCover();
+if(imageURL == "") {imageURL = 'https://radio.foxnews.com/rad_images/radio_icon_90x90.png'}
+document.write("<div class='onnowpic'><a href=\"javascript:void(0)\" onclick=\"window.open(\'https://radio.foxnews.com/player-files/radio.php\',\'radioWin\',\'width=1090,height=485\')\" style=\"color:red;\"><img src='"+imageURL+"' align='left' style='max-width; none; width: 300px; height: 180px;' alt='Program Slate Image' border='0' class='attachment-small-thumb wp-post-image'></a></div>");
+document.write("<div style='float:left;padding-left:20px; padding-top: 5px;'><span class='main-headline' style='font-size:20px'>ON NOW: "+ writeShowName().toUpperCase()+"<br><a href=\"javascript:void(0)\" onclick=\"window.open(\'https://radio.foxnews.com/player-files/radio.php\',\'radioWin\',\'width=600,height=410\')\" style=\"color:red;\"><strong><span style='font-size: 120%;'>&gt;&gt; Listen Live</span></strong></a></div>"); 
+document.write("<div style='float:left;padding-left:20px; padding-top: 5px; overflow: visible;'><h4>"+writeStreamSchedule()+"</h4></div>");
+</script>
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span8 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="ult-spacer spacer-5efac4f2c6003" data-id="5efac4f2c6003" data-height="20" data-height-mobile="20" data-height-tab="20" data-height-tab-portrait="" data-height-mobile-landscape="" style="clear:both;display:block;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><iframe style="width: 100%; height: 497px;" src="https://static.foxnews.com/static/orion/html/embed/coronavirus-pandemic.html" frameborder="0" scrolling="no" aria-label="Corona Virus Chart"></iframe></p>
+
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="ult-spacer spacer-5efac4f2c6371" data-id="5efac4f2c6371" data-height="20" data-height-mobile="20" data-height-tab="20" data-height-tab-portrait="" data-height-mobile-landscape="" style="clear:both;display:block;"></div>
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h1><span style="color: #ffffff;">Always up to date information. Every hour. Every day.</span></h1>
+
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div><!-- Row Backgrounds --><div class="upb_color" data-bg-override="0" data-bg-color="#dd3333" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false"  data-custom-vc-row=""  data-vc="6.2.0"  data-is_old_vc=""  data-theme-support=""   data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""    ></div><div class="wpb_row row-fluid vc_custom_1584449632932">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Fresh. Updated Hourly.</h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/5-minute-newscast/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="405" height="400" src="https://radio.foxnews.com/wp-content/uploads/2018/11/FOX-News-Radio-Logo-405x400.jpg" class="vc_single_image-img attachment-medium" alt="News Radio Logo" srcset="https://radio.foxnews.com/wp-content/uploads/2018/11/FOX-News-Radio-Logo-405x400.jpg 405w, https://radio.foxnews.com/wp-content/uploads/2018/11/FOX-News-Radio-Logo-361x357.jpg 361w, https://radio.foxnews.com/wp-content/uploads/2018/11/FOX-News-Radio-Logo-489x483.jpg 489w, https://radio.foxnews.com/wp-content/uploads/2018/11/FOX-News-Radio-Logo.jpg 507w" sizes="(max-width: 405px) 100vw, 405px" /></a>
+		</figure>
+	</div>
+<div class="wpb_column vc_column_container span4"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container span4"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container vc_custom_1557516220387">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Big stories delivered every day!</h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/fox-news-rundown/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="400" height="400" src="https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-400x400.jpg" class="vc_single_image-img attachment-medium" alt="FOX News Rundown" srcset="https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-400x400.jpg 400w, https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-150x150.jpg 150w, https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-700x700.jpg 700w, https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-357x357.jpg 357w, https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-483x483.jpg 483w, https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-210x210.jpg 210w, https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER.jpg 1200w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container vc_custom_1557516110216">
+		<div class="wpb_wrapper">
+			
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid vc_custom_1430486165756">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_1_5efac4f2c8bdb = new td_block();
+block_td_uid_1_5efac4f2c8bdb.id = "td_uid_1_5efac4f2c8bdb";
+block_td_uid_1_5efac4f2c8bdb.atts = '{"category_id":"4","hide_title":"hide_title","limit":"1","custom_title":"Featured Podcasts","custom_url":"https:\/\/radio.foxnews.com\/podcasts"}';
+block_td_uid_1_5efac4f2c8bdb.td_cur_cat = "4";
+block_td_uid_1_5efac4f2c8bdb.td_column_number = "1";
+block_td_uid_1_5efac4f2c8bdb.block_type = "1";
+block_td_uid_1_5efac4f2c8bdb.post_count = "1";
+block_td_uid_1_5efac4f2c8bdb.found_posts = "127";
+block_td_uid_1_5efac4f2c8bdb.max_num_pages = "127";
+block_td_uid_1_5efac4f2c8bdb.header_color = "";
+block_td_uid_1_5efac4f2c8bdb.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_1_5efac4f2c8bdb);
+</script><div class="td_block_wrap td_block1"><div id=td_uid_1_5efac4f2c8bdb class="td_block_inner">
+        <div class="td_mod2 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/28/the-fox-news-rundown-6-27-2020/" rel="bookmark" title="Fox News Rundown Extra: A Celebrity Chef Knows Why Diners Are Catching Covid-19 At Restaurants"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/05/Rundown-Featured-Image-NEW.png" alt="" title="Fox News Rundown Extra: A Celebrity Chef Knows Why Diners Are Catching Covid-19 At Restaurants"/></a></div>
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/28/the-fox-news-rundown-6-27-2020/" rel="bookmark" title="Fox News Rundown Extra: A Celebrity Chef Knows Why Diners Are Catching Covid-19 At Restaurants">Fox News Rundown Extra: A Celebrity Chef Knows Why Diners Are Catching Covid-19 At Restaurants</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-28T05:00:01+00:00" >Jun 28, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+
+            <div class="td-post-text-excerpt">
+                Our complete, unedited interview with celebrity chef and Food Network star Robert Irvine.            </div>
+
+            <meta itemprop="author" content = "William Sanchez">
+        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_2_5efac4f2ca62e = new td_block();
+block_td_uid_2_5efac4f2ca62e.id = "td_uid_2_5efac4f2ca62e";
+block_td_uid_2_5efac4f2ca62e.atts = '{"category_id":"34567","hide_title":"hide_title","limit":"1","custom_title":"Featured Podcasts","custom_url":"https:\/\/radio.foxnews.com\/podcasts"}';
+block_td_uid_2_5efac4f2ca62e.td_cur_cat = "34567";
+block_td_uid_2_5efac4f2ca62e.td_column_number = "1";
+block_td_uid_2_5efac4f2ca62e.block_type = "1";
+block_td_uid_2_5efac4f2ca62e.post_count = "1";
+block_td_uid_2_5efac4f2ca62e.found_posts = "12";
+block_td_uid_2_5efac4f2ca62e.max_num_pages = "12";
+block_td_uid_2_5efac4f2ca62e.header_color = "";
+block_td_uid_2_5efac4f2ca62e.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_2_5efac4f2ca62e);
+</script><div class="td_block_wrap td_block1"><div id=td_uid_2_5efac4f2ca62e class="td_block_inner">
+        <div class="td_mod2 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/05/13/whos-zoomin-who/" rel="bookmark" title="Who&#8217;s Zoomin&#8217; Who?"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/02/FEATURED_IMAGECOVER_PERINO_AND_STIREWALT-326x235.png" alt="" title="Who&#8217;s Zoomin&#8217; Who?"/></a></div>
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/05/13/whos-zoomin-who/" rel="bookmark" title="Who&#8217;s Zoomin&#8217; Who?">Who&#8217;s Zoomin&#8217; Who?</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-05-13T14:22:10+00:00" >May 13, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+
+            <div class="td-post-text-excerpt">
+                This week, Dana and Chris discuss widespread American unemployment and economic uncertainty and updates from the 2020 election. Plus, trivia!            </div>
+
+            <meta itemprop="author" content = "Devon Kelly">
+        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_3_5efac4f2cc215 = new td_block();
+block_td_uid_3_5efac4f2cc215.id = "td_uid_3_5efac4f2cc215";
+block_td_uid_3_5efac4f2cc215.atts = '{"category_id":"37250","hide_title":"hide_title","limit":"1","custom_title":"Featured Podcasts","custom_url":"https:\/\/radio.foxnews.com\/podcasts"}';
+block_td_uid_3_5efac4f2cc215.td_cur_cat = "37250";
+block_td_uid_3_5efac4f2cc215.td_column_number = "1";
+block_td_uid_3_5efac4f2cc215.block_type = "1";
+block_td_uid_3_5efac4f2cc215.post_count = "1";
+block_td_uid_3_5efac4f2cc215.found_posts = "3";
+block_td_uid_3_5efac4f2cc215.max_num_pages = "3";
+block_td_uid_3_5efac4f2cc215.header_color = "";
+block_td_uid_3_5efac4f2cc215.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_3_5efac4f2cc215);
+</script><div class="td_block_wrap td_block1"><div id=td_uid_3_5efac4f2cc215 class="td_block_inner">
+        <div class="td_mod2 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/03/16/christine-pelosi-the-american-peoples-health-comes-first/" rel="bookmark" title="Christine Pelosi: &#8220;The American People&#8217;s Health Comes First&#8221;"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/04/THE_UNTOLD_STORY_FEATURED_IMAGE-326x235.png" alt="" title="Christine Pelosi: &#8220;The American People&#8217;s Health Comes First&#8221;"/></a></div>
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/03/16/christine-pelosi-the-american-peoples-health-comes-first/" rel="bookmark" title="Christine Pelosi: &#8220;The American People&#8217;s Health Comes First&#8221;">Christine Pelosi: &#8220;The American People&#8217;s Health Comes First&#8221;</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-03-16T07:00:38+00:00" >Mar 16, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+
+            <div class="td-post-text-excerpt">
+                This week, Martha is joined by Christine Pelosi, Speaker Nancy Pelosi’s daughter, to discuss impeachment, COVID-19 and the 2020 Democratic Presidential race.            </div>
+
+            <meta itemprop="author" content = "Jonah Blocker">
+        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+</div><!-- Row Backgrounds --><div class="wpb_row row-fluid">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_4_5efac4f2ce3b3 = new td_block();
+block_td_uid_4_5efac4f2ce3b3.id = "td_uid_4_5efac4f2ce3b3";
+block_td_uid_4_5efac4f2ce3b3.atts = '{"category_id":"37251","hide_title":"hide_title","limit":"1"}';
+block_td_uid_4_5efac4f2ce3b3.td_cur_cat = "37251";
+block_td_uid_4_5efac4f2ce3b3.td_column_number = "1";
+block_td_uid_4_5efac4f2ce3b3.block_type = "4";
+block_td_uid_4_5efac4f2ce3b3.post_count = "1";
+block_td_uid_4_5efac4f2ce3b3.found_posts = "1";
+block_td_uid_4_5efac4f2ce3b3.max_num_pages = "1";
+block_td_uid_4_5efac4f2ce3b3.header_color = "";
+block_td_uid_4_5efac4f2ce3b3.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_4_5efac4f2ce3b3);
+</script><div class="td_block_wrap td_block4"><div id=td_uid_4_5efac4f2ce3b3 class="td_block_inner">
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2019/12/12/endless-hill-talkathon-as-panel-heads-toward-impeachment/" rel="bookmark" title="Endless Hill Talkathon As Panel Heads Toward Impeachment"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2018/07/social_buzzmeter_featured-100x65.png" alt="" title="Endless Hill Talkathon As Panel Heads Toward Impeachment"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2019/12/12/endless-hill-talkathon-as-panel-heads-toward-impeachment/" rel="bookmark" title="Endless Hill Talkathon As Panel Heads Toward Impeachment">Endless Hill Talkathon As Panel Heads Toward Impeachment</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2019-12-12T13:15:02+00:00" >Dec 12, 2019</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "William Sanchez">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_6_5efac4f2cf6fc = new td_block();
+block_td_uid_6_5efac4f2cf6fc.id = "td_uid_6_5efac4f2cf6fc";
+block_td_uid_6_5efac4f2cf6fc.atts = '{"category_id":"47818","hide_title":"hide_title","limit":"1"}';
+block_td_uid_6_5efac4f2cf6fc.td_cur_cat = "47818";
+block_td_uid_6_5efac4f2cf6fc.td_column_number = "1";
+block_td_uid_6_5efac4f2cf6fc.block_type = "4";
+block_td_uid_6_5efac4f2cf6fc.post_count = "1";
+block_td_uid_6_5efac4f2cf6fc.found_posts = "1";
+block_td_uid_6_5efac4f2cf6fc.max_num_pages = "1";
+block_td_uid_6_5efac4f2cf6fc.header_color = "";
+block_td_uid_6_5efac4f2cf6fc.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_6_5efac4f2cf6fc);
+</script><div class="td_block_wrap td_block4"><div id=td_uid_6_5efac4f2cf6fc class="td_block_inner">
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2019/10/25/republicans-want-in/" rel="bookmark" title="Republicans Want In"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2017/09/COVER_FROM_WASHINGTON-700x700-1-100x65.jpg" alt="From Washington" title="Republicans Want In"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2019/10/25/republicans-want-in/" rel="bookmark" title="Republicans Want In">Republicans Want In</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2019-10-25T17:25:01+00:00" >Oct 25, 2019</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "William Sanchez">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_8_5efac4f2d0f79 = new td_block();
+block_td_uid_8_5efac4f2d0f79.id = "td_uid_8_5efac4f2d0f79";
+block_td_uid_8_5efac4f2d0f79.atts = '{"category_id":"47819","hide_title":"hide_title","limit":"1"}';
+block_td_uid_8_5efac4f2d0f79.td_cur_cat = "47819";
+block_td_uid_8_5efac4f2d0f79.td_column_number = "1";
+block_td_uid_8_5efac4f2d0f79.block_type = "4";
+block_td_uid_8_5efac4f2d0f79.post_count = "1";
+block_td_uid_8_5efac4f2d0f79.found_posts = "1";
+block_td_uid_8_5efac4f2d0f79.max_num_pages = "1";
+block_td_uid_8_5efac4f2d0f79.header_color = "";
+block_td_uid_8_5efac4f2d0f79.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_8_5efac4f2d0f79);
+</script><div class="td_block_wrap td_block4"><div id=td_uid_8_5efac4f2d0f79 class="td_block_inner">
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2019/10/25/nary-a-time/" rel="bookmark" title="Nary A Time"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2018/11/Tyrus-and-Timpf-Featured-Image-600x450-100x65.jpg" alt="" title="Nary A Time"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2019/10/25/nary-a-time/" rel="bookmark" title="Nary A Time">Nary A Time</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2019-10-25T16:05:01+00:00" >Oct 25, 2019</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "William Sanchez">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid vc_custom_1430490310963">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_10_5efac4f2d272e = new td_block();
+block_td_uid_10_5efac4f2d272e.id = "td_uid_10_5efac4f2d272e";
+block_td_uid_10_5efac4f2d272e.atts = '{"category_ids":"101,-46203","limit":"1","custom_title":"Brian Kilmeade 9a-12p ET"}';
+block_td_uid_10_5efac4f2d272e.td_cur_cat = "";
+block_td_uid_10_5efac4f2d272e.td_column_number = "1";
+block_td_uid_10_5efac4f2d272e.block_type = "3";
+block_td_uid_10_5efac4f2d272e.post_count = "1";
+block_td_uid_10_5efac4f2d272e.found_posts = "4266";
+block_td_uid_10_5efac4f2d272e.max_num_pages = "4266";
+block_td_uid_10_5efac4f2d272e.header_color = "";
+block_td_uid_10_5efac4f2d272e.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_10_5efac4f2d272e);
+</script><div class="td_block_wrap td_block3"><h4 class="block-title"><a href="https://radio.foxnews.com/category/talk/brian-kilmeade/">Brian Kilmeade 9a-12p ET</a></h4><div id=td_uid_10_5efac4f2d272e class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/mick-mulvaney-polls-show-folks-are-not-happy-with-donald-trump/" rel="bookmark" title="Mick Mulvaney: Polls Show Folks Are Not Happy with Donald Trump"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/Trump-new-2-326x235.jpg" alt="" title="Mick Mulvaney: Polls Show Folks Are Not Happy with Donald Trump"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/mick-mulvaney-polls-show-folks-are-not-happy-with-donald-trump/" rel="bookmark" title="Mick Mulvaney: Polls Show Folks Are Not Happy with Donald Trump">Mick Mulvaney: Polls Show Folks Are Not Happy with Donald Trump</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T12:32:59+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><script>var block_td_uid_12_5efac4f2d3f46 = new td_block();
+block_td_uid_12_5efac4f2d3f46.id = "td_uid_12_5efac4f2d3f46";
+block_td_uid_12_5efac4f2d3f46.atts = '{"category_ids":"101,-46203","hide_title":"hide_title","limit":"1"}';
+block_td_uid_12_5efac4f2d3f46.td_cur_cat = "";
+block_td_uid_12_5efac4f2d3f46.td_column_number = "1";
+block_td_uid_12_5efac4f2d3f46.block_type = "3";
+block_td_uid_12_5efac4f2d3f46.post_count = "1";
+block_td_uid_12_5efac4f2d3f46.found_posts = "4265";
+block_td_uid_12_5efac4f2d3f46.max_num_pages = "4265";
+block_td_uid_12_5efac4f2d3f46.header_color = "";
+block_td_uid_12_5efac4f2d3f46.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_12_5efac4f2d3f46);
+</script><div class="td_block_wrap td_block3"><div id=td_uid_12_5efac4f2d3f46 class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/rick-perry-sheltering-in-place-until-we-find-a-vaccine-is-not-a-good-strategy/" rel="bookmark" title="Rick Perry: Sheltering In Place Until We Find A Vaccine Is Not A Good Strategy"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/09/Rick-Perry-and-Kilmeade-326x235.jpg" alt="" title="Rick Perry: Sheltering In Place Until We Find A Vaccine Is Not A Good Strategy"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/rick-perry-sheltering-in-place-until-we-find-a-vaccine-is-not-a-good-strategy/" rel="bookmark" title="Rick Perry: Sheltering In Place Until We Find A Vaccine Is Not A Good Strategy">Rick Perry: Sheltering In Place Until We Find A Vaccine Is Not A Good Strategy</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T12:32:05+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><script>var block_td_uid_14_5efac4f2d53cc = new td_block();
+block_td_uid_14_5efac4f2d53cc.id = "td_uid_14_5efac4f2d53cc";
+block_td_uid_14_5efac4f2d53cc.atts = '{"category_ids":"101,-46203","hide_title":"hide_title","limit":"1"}';
+block_td_uid_14_5efac4f2d53cc.td_cur_cat = "";
+block_td_uid_14_5efac4f2d53cc.td_column_number = "1";
+block_td_uid_14_5efac4f2d53cc.block_type = "3";
+block_td_uid_14_5efac4f2d53cc.post_count = "1";
+block_td_uid_14_5efac4f2d53cc.found_posts = "4264";
+block_td_uid_14_5efac4f2d53cc.max_num_pages = "4264";
+block_td_uid_14_5efac4f2d53cc.header_color = "";
+block_td_uid_14_5efac4f2d53cc.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_14_5efac4f2d53cc);
+</script><div class="td_block_wrap td_block3"><div id=td_uid_14_5efac4f2d53cc class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/corey-lewandowski-on-his-formula-to-help-ensure-president-trumps-re-election/" rel="bookmark" title="Corey Lewandowski On His Formula To Help Ensure President Trump&#8217;s Re-Election"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/Trump-new-326x235.jpg" alt="" title="Corey Lewandowski On His Formula To Help Ensure President Trump&#8217;s Re-Election"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/corey-lewandowski-on-his-formula-to-help-ensure-president-trumps-re-election/" rel="bookmark" title="Corey Lewandowski On His Formula To Help Ensure President Trump&#8217;s Re-Election">Corey Lewandowski On His Formula To Help Ensure President Trump&#8217;s Re-Election</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T12:31:02+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid vc_custom_1430490310963">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_16_5efac4f2d6b50 = new td_block();
+block_td_uid_16_5efac4f2d6b50.id = "td_uid_16_5efac4f2d6b50";
+block_td_uid_16_5efac4f2d6b50.atts = '{"category_ids":"49354","limit":"1","custom_title":"Jimmy Failla12-3p ET"}';
+block_td_uid_16_5efac4f2d6b50.td_cur_cat = "";
+block_td_uid_16_5efac4f2d6b50.td_column_number = "1";
+block_td_uid_16_5efac4f2d6b50.block_type = "3";
+block_td_uid_16_5efac4f2d6b50.post_count = "1";
+block_td_uid_16_5efac4f2d6b50.found_posts = "150";
+block_td_uid_16_5efac4f2d6b50.max_num_pages = "150";
+block_td_uid_16_5efac4f2d6b50.header_color = "";
+block_td_uid_16_5efac4f2d6b50.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_16_5efac4f2d6b50);
+</script><div class="td_block_wrap td_block3"><h4 class="block-title"><a href="https://radio.foxnews.com/category/talk/fox-across-america/">Jimmy Failla12-3p ET</a></h4><div id=td_uid_16_5efac4f2d6b50 class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/sen-joni-ernst-democrats-need-to-stop-playing-politics-with-police-reform/" rel="bookmark" title="Sen. Joni Ernst: Democrats Need To &#8220;Stop Playing Politics&#8221; With Police Reform"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/11/Sen-Joni-Ernst-326x235.jpg" alt="" title="Sen. Joni Ernst: Democrats Need To &#8220;Stop Playing Politics&#8221; With Police Reform"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/sen-joni-ernst-democrats-need-to-stop-playing-politics-with-police-reform/" rel="bookmark" title="Sen. Joni Ernst: Democrats Need To &#8220;Stop Playing Politics&#8221; With Police Reform">Sen. Joni Ernst: Democrats Need To &#8220;Stop Playing Politics&#8221; With Police Reform</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T15:45:23+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Jon Costantino">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><script>var block_td_uid_18_5efac4f2d811f = new td_block();
+block_td_uid_18_5efac4f2d811f.id = "td_uid_18_5efac4f2d811f";
+block_td_uid_18_5efac4f2d811f.atts = '{"category_ids":"49354","hide_title":"hide_title","limit":"1"}';
+block_td_uid_18_5efac4f2d811f.td_cur_cat = "";
+block_td_uid_18_5efac4f2d811f.td_column_number = "1";
+block_td_uid_18_5efac4f2d811f.block_type = "3";
+block_td_uid_18_5efac4f2d811f.post_count = "1";
+block_td_uid_18_5efac4f2d811f.found_posts = "149";
+block_td_uid_18_5efac4f2d811f.max_num_pages = "149";
+block_td_uid_18_5efac4f2d811f.header_color = "";
+block_td_uid_18_5efac4f2d811f.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_18_5efac4f2d811f);
+</script><div class="td_block_wrap td_block3"><div id=td_uid_18_5efac4f2d811f class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/johnny-joey-jones-theres-no-reason-to-change-the-anthem/" rel="bookmark" title="Johnny &#8220;Joey&#8221; Jones: There&#8217;s No Reason To Change The Anthem"><img width="299" height="168" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/download-15.jpg" alt="" title="Johnny &#8220;Joey&#8221; Jones: There&#8217;s No Reason To Change The Anthem"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/johnny-joey-jones-theres-no-reason-to-change-the-anthem/" rel="bookmark" title="Johnny &#8220;Joey&#8221; Jones: There&#8217;s No Reason To Change The Anthem">Johnny &#8220;Joey&#8221; Jones: There&#8217;s No Reason To Change The Anthem</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T15:39:16+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Jon Costantino">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><script>var block_td_uid_20_5efac4f2d9600 = new td_block();
+block_td_uid_20_5efac4f2d9600.id = "td_uid_20_5efac4f2d9600";
+block_td_uid_20_5efac4f2d9600.atts = '{"category_ids":"49354","hide_title":"hide_title","limit":"1"}';
+block_td_uid_20_5efac4f2d9600.td_cur_cat = "";
+block_td_uid_20_5efac4f2d9600.td_column_number = "1";
+block_td_uid_20_5efac4f2d9600.block_type = "3";
+block_td_uid_20_5efac4f2d9600.post_count = "1";
+block_td_uid_20_5efac4f2d9600.found_posts = "148";
+block_td_uid_20_5efac4f2d9600.max_num_pages = "148";
+block_td_uid_20_5efac4f2d9600.header_color = "";
+block_td_uid_20_5efac4f2d9600.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_20_5efac4f2d9600);
+</script><div class="td_block_wrap td_block3"><div id=td_uid_20_5efac4f2d9600 class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/rep-ralph-norman-if-you-dont-stand-up-for-law-order-dont-be-in-office/" rel="bookmark" title="Rep. Ralph Norman: If You Don&#8217;t Stand Up For Law &#038; Order, Don&#8217;t Be In Office"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/06/Congressman-Ralph-Norman-326x235.jpg" alt="" title="Rep. Ralph Norman: If You Don&#8217;t Stand Up For Law &#038; Order, Don&#8217;t Be In Office"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/rep-ralph-norman-if-you-dont-stand-up-for-law-order-dont-be-in-office/" rel="bookmark" title="Rep. Ralph Norman: If You Don&#8217;t Stand Up For Law &#038; Order, Don&#8217;t Be In Office">Rep. Ralph Norman: If You Don&#8217;t Stand Up For Law &#038; Order, Don&#8217;t Be In Office</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T15:43:27+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Jon Costantino">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid podcastrow">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_22_5efac4f2dadab = new td_block();
+block_td_uid_22_5efac4f2dadab.id = "td_uid_22_5efac4f2dadab";
+block_td_uid_22_5efac4f2dadab.atts = '{"category_ids":"47252,-47273","limit":"1","custom_title":"Guy Benson 3-6p ET"}';
+block_td_uid_22_5efac4f2dadab.td_cur_cat = "";
+block_td_uid_22_5efac4f2dadab.td_column_number = "1";
+block_td_uid_22_5efac4f2dadab.block_type = "3";
+block_td_uid_22_5efac4f2dadab.post_count = "1";
+block_td_uid_22_5efac4f2dadab.found_posts = "446";
+block_td_uid_22_5efac4f2dadab.max_num_pages = "446";
+block_td_uid_22_5efac4f2dadab.header_color = "";
+block_td_uid_22_5efac4f2dadab.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_22_5efac4f2dadab);
+</script><div class="td_block_wrap td_block3"><h4 class="block-title"><a href="https://radio.foxnews.com/category/talk/guy-benson/">Guy Benson 3-6p ET</a></h4><div id=td_uid_22_5efac4f2dadab class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/leader-kevin-mccarthy-on-pelosi-comments-shes-more-interested-in-slandering-republicans-then-finding-a-solution/" rel="bookmark" title="Leader Kevin McCarthy On Pelosi Comments: &#8220;She&#8217;s More Interested In Slandering Republicans Then Finding A Solution&#8221;"><img width="300" height="181" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2015/10/o-KEVIN-MCCARTHY-IMMIGRATION-facebook-300x181.jpg" alt="" title="Leader Kevin McCarthy On Pelosi Comments: &#8220;She&#8217;s More Interested In Slandering Republicans Then Finding A Solution&#8221;"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/leader-kevin-mccarthy-on-pelosi-comments-shes-more-interested-in-slandering-republicans-then-finding-a-solution/" rel="bookmark" title="Leader Kevin McCarthy On Pelosi Comments: &#8220;She&#8217;s More Interested In Slandering Republicans Then Finding A Solution&#8221;">Leader Kevin McCarthy On Pelosi Comments: &#8220;She&#8217;s More Interested In Slandering Republicans Then Finding A Solution&#8221;</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T18:40:32+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Wyatt DobrovichFago">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><script>var block_td_uid_24_5efac4f2dc682 = new td_block();
+block_td_uid_24_5efac4f2dc682.id = "td_uid_24_5efac4f2dc682";
+block_td_uid_24_5efac4f2dc682.atts = '{"category_ids":"47252,-47273","hide_title":"hide_title","limit":"1"}';
+block_td_uid_24_5efac4f2dc682.td_cur_cat = "";
+block_td_uid_24_5efac4f2dc682.td_column_number = "1";
+block_td_uid_24_5efac4f2dc682.block_type = "3";
+block_td_uid_24_5efac4f2dc682.post_count = "1";
+block_td_uid_24_5efac4f2dc682.found_posts = "445";
+block_td_uid_24_5efac4f2dc682.max_num_pages = "445";
+block_td_uid_24_5efac4f2dc682.header_color = "";
+block_td_uid_24_5efac4f2dc682.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_24_5efac4f2dc682);
+</script><div class="td_block_wrap td_block3"><div id=td_uid_24_5efac4f2dc682 class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/leader-mitch-mcconnell-r-ky-the-democrats-did-not-want-an-outcome-they-simply-wanted-to-act-like-tim-scott-didnt-exist/" rel="bookmark" title="Leader Mitch McConnell (R-KY) &#8220;The Democrats Did Not Want An Outcome, They Simply Wanted To Act Like Tim Scott Didn&#8217;t Exist&#8221;"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/04/Mitch-326x235.jpg" alt="" title="Leader Mitch McConnell (R-KY) &#8220;The Democrats Did Not Want An Outcome, They Simply Wanted To Act Like Tim Scott Didn&#8217;t Exist&#8221;"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/leader-mitch-mcconnell-r-ky-the-democrats-did-not-want-an-outcome-they-simply-wanted-to-act-like-tim-scott-didnt-exist/" rel="bookmark" title="Leader Mitch McConnell (R-KY) &#8220;The Democrats Did Not Want An Outcome, They Simply Wanted To Act Like Tim Scott Didn&#8217;t Exist&#8221;">Leader Mitch McConnell (R-KY) &#8220;The Democrats Did Not Want An Outcome, They Simply Wanted To Act Like Tim Scott Didn&#8217;t Exist&#8221;</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T18:39:42+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Wyatt DobrovichFago">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><script>var block_td_uid_26_5efac4f2ddc06 = new td_block();
+block_td_uid_26_5efac4f2ddc06.id = "td_uid_26_5efac4f2ddc06";
+block_td_uid_26_5efac4f2ddc06.atts = '{"category_ids":"47252,-47273","hide_title":"hide_title","limit":"1"}';
+block_td_uid_26_5efac4f2ddc06.td_cur_cat = "";
+block_td_uid_26_5efac4f2ddc06.td_column_number = "1";
+block_td_uid_26_5efac4f2ddc06.block_type = "3";
+block_td_uid_26_5efac4f2ddc06.post_count = "1";
+block_td_uid_26_5efac4f2ddc06.found_posts = "444";
+block_td_uid_26_5efac4f2ddc06.max_num_pages = "444";
+block_td_uid_26_5efac4f2ddc06.header_color = "";
+block_td_uid_26_5efac4f2ddc06.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_26_5efac4f2ddc06);
+</script><div class="td_block_wrap td_block3"><div id=td_uid_26_5efac4f2ddc06 class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/sen-tim-scott-r-sc-responds-to-pelosi-murder-smear-most-outrageous-sinful-comment-ive-heard-as-a-public-official-period/" rel="bookmark" title="Sen. Tim Scott (R-SC) Responds To Pelosi &#8216;Murder&#8217; Smear: &#8220;Most Outrageous, Sinful Comment I&#8217;ve Heard As A Public Official Period.&#8221;"><img width="326" height="235" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/image-1-326x235.jpg" alt="" title="Sen. Tim Scott (R-SC) Responds To Pelosi &#8216;Murder&#8217; Smear: &#8220;Most Outrageous, Sinful Comment I&#8217;ve Heard As A Public Official Period.&#8221;"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/sen-tim-scott-r-sc-responds-to-pelosi-murder-smear-most-outrageous-sinful-comment-ive-heard-as-a-public-official-period/" rel="bookmark" title="Sen. Tim Scott (R-SC) Responds To Pelosi &#8216;Murder&#8217; Smear: &#8220;Most Outrageous, Sinful Comment I&#8217;ve Heard As A Public Official Period.&#8221;">Sen. Tim Scott (R-SC) Responds To Pelosi &#8216;Murder&#8217; Smear: &#8220;Most Outrageous, Sinful Comment I&#8217;ve Heard As A Public Official Period.&#8221;</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T18:38:41+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Wyatt DobrovichFago">        </div>
+
+        </div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space"   style="height: 50px"><span class="vc_empty_space_inner"></span></div>
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>FREE PODCASTS</h3>
+
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid"><div class="span12 wpb_column column_container"><h4 class="block-title"><span >News Updates</span></h4></div></div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/fox-news-rundown" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2017/10/FOX_NEWS_RUNDOWN_LOGO-COVER-300x300.jpg" width="300" height="300" alt="FOX News Rundown" title="FOX_NEWS_RUNDOWN_LOGO-COVER" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/5-minute-newscast/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/11/FOX-News-Radio-Logo-300x300.jpg" width="300" height="300" alt="News Radio Logo" title="FOX News Radio Logo" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/fox-business-report/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/10/FBN_LOGO_SQUARE_2000x2000-300x300.png" width="300" height="300" alt="FBN_LOGO_SQUARE_2000x2000" title="FBN_LOGO_SQUARE_2000x2000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid"><div class="span12 wpb_column column_container"><h4 class="block-title"><span >News &amp; Politics</span></h4></div></div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/fox-news-talk/brian-kilmeade/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2009/08/kilmeade3000x3000-300x300.jpg" width="300" height="300" alt="kilmeade3000x3000" title="kilmeade3000x3000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/fox-across-america-with-jimmy-failla/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/03/optimized-COVER_FOX_ACROSS_AMERICA-300x300.jpg" width="300" height="300" alt="optimized-COVER_FOX_ACROSS_AMERICA" title="optimized-COVER_FOX_ACROSS_AMERICA" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/fox-news-talk/guy-benson/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/05/benson3000-1M-300x300.jpg" width="300" height="300" alt="benson3000-1M" title="benson3000-1M" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/trey-gowdy/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/04/COVER_The_Trey_Gowdy_Podcast-300x300.png" width="300" height="300" alt="COVER_The_Trey_Gowdy_Podcast" title="COVER_The_Trey_Gowdy_Podcast" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/perino-and-stirewalt-podcast" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/02/COVER_PERINO_AND_STIREWALT-300x300.png" width="300" height="300" alt="COVER_PERINO_AND_STIREWALT" title="COVER_PERINO_AND_STIREWALT" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/the-5-podcast/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/07/The-Five-Logo-NT-300x300.png" width="300" height="300" alt="The Five Logo NT 300x300" title="The Five Logo NT 300x300" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/the-candidates/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/10/THE_CAMPAIGN_WITH_BRET_BAIER_COVER-SQAURE-1-300x300.png" width="300" height="300" alt="THE_CAMPAIGN_WITH_BRET_BAIER_COVER-SQAURE" title="THE_CAMPAIGN_WITH_BRET_BAIER_COVER-SQAURE" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/the-impeachment-witch-hunt/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/12/COVER_the_impeachment_witch_hunt-300x300.png" width="300" height="300" alt="COVER_the_impeachment_witch_hunt" title="COVER_the_impeachment_witch_hunt" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/the-untold-story/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/12/untoldstory-3000-300x300.png" width="300" height="300" alt="untoldstory-3000" title="untoldstory-3000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/from-washington" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2017/09/COVER_FROM_WASHINGTON-300x300.jpg" width="300" height="300" alt="From Washington" title="COVER_FROM_WASHINGTON" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/livin-the-bream-podcast/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/08/Livin-The-Bream-300x300.jpg" width="300" height="300" alt="Livin-The-Bream" title="Livin-The-Bream" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/the-media-buzzmeter/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/07/KURTZMETER_2-300x300.png" width="300" height="300" alt="KURTZMETER_2" title="KURTZMETER_2" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid"><div class="span12 wpb_column column_container"><h4 class="block-title"><span >Business</span></h4></div></div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/fox-business-report/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/10/FBN_LOGO_SQUARE_2000x2000-300x300.png" width="300" height="300" alt="FBN_LOGO_SQUARE_2000x2000" title="FBN_LOGO_SQUARE_2000x2000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/liz" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/05/COVER_EVERYONE_TALKS_TO_LIZ-300x300.jpg" width="300" height="300" alt="COVER_EVERYONE_TALKS_TO_LIZ" title="COVER_EVERYONE_TALKS_TO_LIZ" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/the-positive-populist" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/03/positive-populist-hilton-optimized-300x300.jpg" width="300" height="300" alt="positive-populist-hilton-optimized" title="positive-populist-hilton-optimized" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid"><div class="span12 wpb_column column_container"><h4 class="block-title"><span >Lifestyle</span></h4></div></div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/getting-schooled/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/02/optimized_COVER_GETTING_SCHOOLED_WITH_ABBY_HORNACEK-300x300.jpg" width="300" height="300" alt="optimized_COVER_GETTING_SCHOOLED_WITH_ABBY_HORNACEK" title="optimized_COVER_GETTING_SCHOOLED_WITH_ABBY_HORNACEK" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/the-one/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2017/03/theone600-300x300.jpg" width="300" height="300" alt="the one" title="the one" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/lighthouse-faith" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2017/09/COVER_Lighthouse_Faith-300x300.jpg" width="300" height="300" alt="Lighthouse Faith Podcast" title="Lighthouse Faith Podcast" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/momming" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/05/Momming_1400x1400_FINAL-300x300.jpg" width="300" height="300" alt="Momming_1400x1400_FINAL" title="Momming_1400x1400_FINAL" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/children-of-song" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2017/09/Child_of_Song_Artwork_Blue_3000x3000-300x300.jpg" width="300" height="300" alt="Child_of_Song_Artwork_Blue_3000x3000" title="Child_of_Song_Artwork_Blue_3000x3000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/fox-food-podcast/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/05/fnp-fox-and-food-1400x1400-300x300.jpg" width="300" height="300" alt="fnp-fox-and-food-1400x1400" title="fnp-fox-and-food-1400x1400" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/fox-top-5/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/04/COVER-foxtop5-300x300.jpg" width="300" height="300" alt="COVER-foxtop5" title="COVER-foxtop5" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/a-few-moments-with-podcast/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2009/08/fnp-afmw-3000-300x300.jpg" width="300" height="300" alt="fnp-afmw-3000" title="fnp-afmw-3000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid"><div class="span12 wpb_column column_container"><h4 class="block-title"><span >People &amp; Culture</span></h4></div></div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/podcast/hemmer-time" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/04/SQUARE_HEMMER_TIME-300x300.png" width="300" height="300" alt="SQUARE_HEMMER_TIME" title="SQUARE_HEMMER_TIME" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/tyrus-and-timpf" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/11/TyrusAndTimpf-3000-300x300.png" width="300" height="300" alt="TyrusAndTimpf-3000" title="TyrusAndTimpf-3000" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/proud-american/" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2020/04/COVER_Proud_American_-300x300.png" width="300" height="300" alt="COVER_Proud_American_" title="COVER_Proud_American_" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/derby-city-betrayal" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2019/10/COVER_DERBY_CITY_BETRAYAL-reduced-300x300.jpg" width="300" height="300" alt="COVER_DERBY_CITY_BETRAYAL-reduced" title="COVER_DERBY_CITY_BETRAYAL-reduced" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://radio.foxnews.com/podcast/riddle" target="_self" class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey"><img class="vc_single_image-img " src="https://radio.foxnews.com/wp-content/uploads/2018/11/RIDDLE_PODCAST_3000_FINAL-300x300.png" width="300" height="300" alt="RIDDLE_PODCAST_3000_FINAL" title="RIDDLE_PODCAST_3000_FINAL" /></a>
+		</figure>
+	</div>
+
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+
+	<div class="span3 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<a name="talk"></a>
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span8 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_28_5efac4f2f0070 = new td_block();
+block_td_uid_28_5efac4f2f0070.id = "td_uid_28_5efac4f2f0070";
+block_td_uid_28_5efac4f2f0070.atts = '{"category_id":"8","limit":"6","header_color":"#000000","custom_title":"Talk Radio"}';
+block_td_uid_28_5efac4f2f0070.td_cur_cat = "8";
+block_td_uid_28_5efac4f2f0070.td_column_number = "2";
+block_td_uid_28_5efac4f2f0070.block_type = "4";
+block_td_uid_28_5efac4f2f0070.post_count = "6";
+block_td_uid_28_5efac4f2f0070.found_posts = "5956";
+block_td_uid_28_5efac4f2f0070.max_num_pages = "993";
+block_td_uid_28_5efac4f2f0070.header_color = "#000000";
+block_td_uid_28_5efac4f2f0070.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_28_5efac4f2f0070);
+</script><div class="td_block_wrap td_block4"><h4 style="border-bottom: 2px solid #000000" class="block-title"><a style="background-color:#000000" href="https://radio.foxnews.com/category/talk/">Talk Radio</a></h4><style>.ui-sctd_uid_28_5efac4f2f0070 .cur-sub-cat { color:#000000 !important}</style><div id=td_uid_28_5efac4f2f0070 class="td_block_inner">
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span6">
+
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/lt-gov-dan-patrick-coronavirus-cases-rising-increasing-in-texas-because-an-increase-in-testing/" rel="bookmark" title="Lt. Gov. Dan Patrick: Coronavirus Cases Rising Increasing In Texas  Because An Increase In Testing"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/Dan-Patrick-100x65.jpg" alt="" title="Lt. Gov. Dan Patrick: Coronavirus Cases Rising Increasing In Texas  Because An Increase In Testing"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/lt-gov-dan-patrick-coronavirus-cases-rising-increasing-in-texas-because-an-increase-in-testing/" rel="bookmark" title="Lt. Gov. Dan Patrick: Coronavirus Cases Rising Increasing In Texas  Because An Increase In Testing">Lt. Gov. Dan Patrick: Coronavirus Cases Rising Increasing In Texas  Because An Increase In Testing</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T12:34:28+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        
+	</div> <!-- ./span6 -->
+
+	<div class="span6">
+
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/admiral-james-stavridis-ret-on-why-we-want-to-avoid-a-full-blown-cold-war-with-china/" rel="bookmark" title="Admiral James Stavridis (Ret.) On Why We Want To Avoid A Full Blown Cold War With China"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2017/08/Stavridis-100x65.png" alt="" title="Admiral James Stavridis (Ret.) On Why We Want To Avoid A Full Blown Cold War With China"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/admiral-james-stavridis-ret-on-why-we-want-to-avoid-a-full-blown-cold-war-with-china/" rel="bookmark" title="Admiral James Stavridis (Ret.) On Why We Want To Avoid A Full Blown Cold War With China">Admiral James Stavridis (Ret.) On Why We Want To Avoid A Full Blown Cold War With China</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T12:26:50+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        
+	</div> <!-- ./span6 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span6">
+
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/sen-rick-scott-r-fl-on-covid-19-spike-in-florida/" rel="bookmark" title="Sen. Rick Scott (R-FL) On COVID-19 Spike In Florida"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/02/Rick-Scott-100x65.jpg" alt="" title="Sen. Rick Scott (R-FL) On COVID-19 Spike In Florida"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/sen-rick-scott-r-fl-on-covid-19-spike-in-florida/" rel="bookmark" title="Sen. Rick Scott (R-FL) On COVID-19 Spike In Florida">Sen. Rick Scott (R-FL) On COVID-19 Spike In Florida</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T19:20:53+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Wyatt DobrovichFago">        </div>
+
+        
+	</div> <!-- ./span6 -->
+
+	<div class="span6">
+
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/heated-debate-guy-benson-and-richard-fowler-spar-on-democrats-filibustering-police-reform/" rel="bookmark" title="HEATED DEBATE: Guy Benson And Richard Fowler Spar On Democrats Filibustering Police Reform"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/08/Fowler-100x65.jpg" alt="" title="HEATED DEBATE: Guy Benson And Richard Fowler Spar On Democrats Filibustering Police Reform"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/heated-debate-guy-benson-and-richard-fowler-spar-on-democrats-filibustering-police-reform/" rel="bookmark" title="HEATED DEBATE: Guy Benson And Richard Fowler Spar On Democrats Filibustering Police Reform">HEATED DEBATE: Guy Benson And Richard Fowler Spar On Democrats Filibustering Police Reform</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T19:19:19+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Wyatt DobrovichFago">        </div>
+
+        
+	</div> <!-- ./span6 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span6">
+
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/espns-jeff-passan-on-the-official-return-of-mlb-baseball/" rel="bookmark" title="ESPN&#8217;s Jeff Passan On The Official Return Of MLB Baseball"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2016/10/50c424d817044216bd87356b408c38f9-100x65.jpg" alt="" title="ESPN&#8217;s Jeff Passan On The Official Return Of MLB Baseball"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/espns-jeff-passan-on-the-official-return-of-mlb-baseball/" rel="bookmark" title="ESPN&#8217;s Jeff Passan On The Official Return Of MLB Baseball">ESPN&#8217;s Jeff Passan On The Official Return Of MLB Baseball</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T19:15:32+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Wyatt DobrovichFago">        </div>
+
+        
+	</div> <!-- ./span6 -->
+
+	<div class="span6">
+
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/rep-greg-murphy-nancy-pelosis-gop-comments-were-despicable/" rel="bookmark" title="Rep. Greg Murphy: Nancy Pelosi&#8217;s GOP Comments Were &#8220;Despicable&#8221;"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/04/Greg-Murphy-100x65.jpg" alt="" title="Rep. Greg Murphy: Nancy Pelosi&#8217;s GOP Comments Were &#8220;Despicable&#8221;"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/rep-greg-murphy-nancy-pelosis-gop-comments-were-despicable/" rel="bookmark" title="Rep. Greg Murphy: Nancy Pelosi&#8217;s GOP Comments Were &#8220;Despicable&#8221;">Rep. Greg Murphy: Nancy Pelosi&#8217;s GOP Comments Were &#8220;Despicable&#8221;</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T16:06:03+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Jon Costantino">        </div>
+
+        
+	</div> <!-- ./span6 --></div><!--./row-fluid--></div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container vc_custom_1430857582354">
+		<div class="wpb_wrapper">
+			
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"' + dns_attr + '></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<script>var block_td_uid_30_5efac4f301512 = new td_block();
+block_td_uid_30_5efac4f301512.id = "td_uid_30_5efac4f301512";
+block_td_uid_30_5efac4f301512.atts = '{"category_id":"33873","category_ids":"-46663,-46206,-46167,-46203, -48380","limit":"15","custom_title":"Recent Podcasts","sub_cat_ajax":"n"}';
+block_td_uid_30_5efac4f301512.td_cur_cat = "33873";
+block_td_uid_30_5efac4f301512.td_column_number = "3";
+block_td_uid_30_5efac4f301512.block_type = "5";
+block_td_uid_30_5efac4f301512.post_count = "15";
+block_td_uid_30_5efac4f301512.found_posts = "28515";
+block_td_uid_30_5efac4f301512.max_num_pages = "1901";
+block_td_uid_30_5efac4f301512.header_color = "";
+block_td_uid_30_5efac4f301512.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_30_5efac4f301512);
+</script><div class="td_block_wrap td_block5"><h4 class="block-title"><span >Recent Podcasts</span></h4><div id=td_uid_30_5efac4f301512 class="td_block_inner">
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/top-5-pet-peeves-kat-timpf-guy-benson/" rel="bookmark" title="Kat Timpf &#038; Guy Benson Top 5 Pet Peeves"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/04/FOX_TOP5_SLATE-100x65.png" alt="" title="Kat Timpf &#038; Guy Benson Top 5 Pet Peeves"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/top-5-pet-peeves-kat-timpf-guy-benson/" rel="bookmark" title="Kat Timpf &#038; Guy Benson Top 5 Pet Peeves">Kat Timpf &#038; Guy Benson Top 5 Pet Peeves</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T17:00:02+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Jonah Blocker">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/trump-still-ripping-nyt-over-russian-bounties-for-killing-u-s-soldiers/" rel="bookmark" title="Trump Still Ripping NYT Over Russian Bounties for Killing U.S. Soldiers"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/FEATURED_IMAGE_Media_Buzz_Meter-100x65.png" alt="" title="Trump Still Ripping NYT Over Russian Bounties for Killing U.S. Soldiers"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/trump-still-ripping-nyt-over-russian-bounties-for-killing-u-s-soldiers/" rel="bookmark" title="Trump Still Ripping NYT Over Russian Bounties for Killing U.S. Soldiers">Trump Still Ripping NYT Over Russian Bounties for Killing U.S. Soldiers</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T13:02:48+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "John Toldi">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/29/what-is-the-declaration-of-independence/" rel="bookmark" title="What Is the Declaration of Independence? Part 1"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/03/FEATURED_IMAGE_GETTING_SCHOOLED_WITH_ABBY_HORNACEK-100x65.png" alt="" title="What Is the Declaration of Independence? Part 1"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/29/what-is-the-declaration-of-independence/" rel="bookmark" title="What Is the Declaration of Independence? Part 1">What Is the Declaration of Independence? Part 1</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-29T05:00:32+00:00" >Jun 29, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Katherine Tague">        </div>
+
+        
+	</div> <!-- ./span4 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/28/ill-tell-you-what-else-the-crumbs-of-the-mailbag/" rel="bookmark" title="I&#8217;ll Tell You What Else: The Crumbs of the Mailbag"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/02/FEATURED_IMAGECOVER_PERINO_AND_STIREWALT-100x65.png" alt="" title="I&#8217;ll Tell You What Else: The Crumbs of the Mailbag"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/28/ill-tell-you-what-else-the-crumbs-of-the-mailbag/" rel="bookmark" title="I&#8217;ll Tell You What Else: The Crumbs of the Mailbag">I&#8217;ll Tell You What Else: The Crumbs of the Mailbag</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-28T05:00:19+00:00" >Jun 28, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Katherine Tague">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/27/merging-vets-and-players-helps-veterans-and-professional-athletes-transition-back-to-civilian-life/" rel="bookmark" title="&#8220;Merging Vets and Players&#8221; Helps Veterans and Professional Athletes Transition Back To Civilian Life"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/04/FEATURED_IMAGE_Proud_American-100x65.png" alt="" title="&#8220;Merging Vets and Players&#8221; Helps Veterans and Professional Athletes Transition Back To Civilian Life"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/27/merging-vets-and-players-helps-veterans-and-professional-athletes-transition-back-to-civilian-life/" rel="bookmark" title="&#8220;Merging Vets and Players&#8221; Helps Veterans and Professional Athletes Transition Back To Civilian Life">&#8220;Merging Vets and Players&#8221; Helps Veterans and Professional Athletes Transition Back To Civilian Life</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-27T16:00:56+00:00" >Jun 27, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Nicole Rabon">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/27/flawed-getaway-strategies/" rel="bookmark" title="Flawed Getaway Strategies"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2018/11/Tyrus-and-Timpf-Featured-Image-600x450-100x65.jpg" alt="" title="Flawed Getaway Strategies"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/27/flawed-getaway-strategies/" rel="bookmark" title="Flawed Getaway Strategies">Flawed Getaway Strategies</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-27T05:00:07+00:00" >Jun 27, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Katherine Tague">        </div>
+
+        
+	</div> <!-- ./span4 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/the-sunbelt-has-become-the-new-hot-spot-for-coronavirus/" rel="bookmark" title="The Sunbelt Has Become The New Hot Spot For Coronavirus"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/12/COVER_FROM_WASHINGTON-100x65.jpg" alt="" title="The Sunbelt Has Become The New Hot Spot For Coronavirus"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/the-sunbelt-has-become-the-new-hot-spot-for-coronavirus/" rel="bookmark" title="The Sunbelt Has Become The New Hot Spot For Coronavirus">The Sunbelt Has Become The New Hot Spot For Coronavirus</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T17:58:55+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Siobhan Flattery">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/26/pundits-wall-street-journal-see-trump-on-a-losing-path/" rel="bookmark" title="Pundits, Wall Street Journal See Trump on a Losing Path"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/FEATURED_IMAGE_Media_Buzz_Meter-100x65.png" alt="" title="Pundits, Wall Street Journal See Trump on a Losing Path"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/26/pundits-wall-street-journal-see-trump-on-a-losing-path/" rel="bookmark" title="Pundits, Wall Street Journal See Trump on a Losing Path">Pundits, Wall Street Journal See Trump on a Losing Path</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-26T13:02:25+00:00" >Jun 26, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "John Toldi">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/police-officers-panel-we-can-do-better-in-law-enforcement/" rel="bookmark" title="Police Officers Panel: &#8220;We Can Do Better In Law Enforcement&#8221;"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2019/04/THE_UNTOLD_STORY_FEATURED_IMAGE-100x65.png" alt="" title="Police Officers Panel: &#8220;We Can Do Better In Law Enforcement&#8221;"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/police-officers-panel-we-can-do-better-in-law-enforcement/" rel="bookmark" title="Police Officers Panel: &#8220;We Can Do Better In Law Enforcement&#8221;">Police Officers Panel: &#8220;We Can Do Better In Law Enforcement&#8221;</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T19:29:10+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Jonah Blocker">        </div>
+
+        
+	</div> <!-- ./span4 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/another-look-inside-facebook-with-steven-levy/" rel="bookmark" title="Another Look Inside Facebook with Steven Levy"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/04/FEATURED_IMAGE_Hemmer_Time-100x65.png" alt="" title="Another Look Inside Facebook with Steven Levy"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/another-look-inside-facebook-with-steven-levy/" rel="bookmark" title="Another Look Inside Facebook with Steven Levy">Another Look Inside Facebook with Steven Levy</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T17:00:34+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Jonah Blocker">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/psychedelic-power-trip-with-riley-gale/" rel="bookmark" title="Psychedelic Power Trip with Riley Gale"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/GutfeldEpisodePic-100x65.jpg" alt="" title="Psychedelic Power Trip with Riley Gale"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/psychedelic-power-trip-with-riley-gale/" rel="bookmark" title="Psychedelic Power Trip with Riley Gale">Psychedelic Power Trip with Riley Gale</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T16:25:26+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Devon Kelly">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/alan-dershowitz-democrats-have-an-extremists-problem-even-if-they-win-2020/" rel="bookmark" title="Alan Dershowitz: Democrats Have An &#8220;Extremists&#8221; Problem, Even If They Win 2020"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2017/03/Dershowitz-100x65.jpg" alt="" title="Alan Dershowitz: Democrats Have An &#8220;Extremists&#8221; Problem, Even If They Win 2020"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/alan-dershowitz-democrats-have-an-extremists-problem-even-if-they-win-2020/" rel="bookmark" title="Alan Dershowitz: Democrats Have An &#8220;Extremists&#8221; Problem, Even If They Win 2020">Alan Dershowitz: Democrats Have An &#8220;Extremists&#8221; Problem, Even If They Win 2020</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T16:03:54+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Jon Costantino">        </div>
+
+        
+	</div> <!-- ./span4 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/political-eruption-as-u-s-hits-record-high-in-virus-cases/" rel="bookmark" title="Political Eruption As U.S. Hits Record High in Virus Cases"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/FEATURED_IMAGE_Media_Buzz_Meter-100x65.png" alt="" title="Political Eruption As U.S. Hits Record High in Virus Cases"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/political-eruption-as-u-s-hits-record-high-in-virus-cases/" rel="bookmark" title="Political Eruption As U.S. Hits Record High in Virus Cases">Political Eruption As U.S. Hits Record High in Virus Cases</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T13:03:05+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "John Toldi">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/andrew-jackson-foundation-president-howard-kittell-on-beefing-up-security-at-the-andrew-jackson-hermitage/" rel="bookmark" title="Andrew Jackson Foundation President Howard Kittell On Beefing Up Security At The Andrew Jackson Hermitage"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/Andrew-Jackson-statue-DC-100x65.jpg" alt="" title="Andrew Jackson Foundation President Howard Kittell On Beefing Up Security At The Andrew Jackson Hermitage"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/andrew-jackson-foundation-president-howard-kittell-on-beefing-up-security-at-the-andrew-jackson-hermitage/" rel="bookmark" title="Andrew Jackson Foundation President Howard Kittell On Beefing Up Security At The Andrew Jackson Hermitage">Andrew Jackson Foundation President Howard Kittell On Beefing Up Security At The Andrew Jackson Hermitage</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T12:27:09+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        
+	</div> <!-- ./span4 -->
+
+	<div class="span4">
+
+        <div class="td_mod4 td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+        <div class="thumb-wrap"><a href="https://radio.foxnews.com/2020/06/25/sen-mike-lee-what-were-witnessing-really-is-an-all-out-war-on-the-founding-of-our-country-by-the-elite-liberal-media/" rel="bookmark" title="Sen. Mike Lee: What We&#8217;re Witnessing Really Is An All-Out War On The Founding Of Our Country By The Elite Liberal Media"><img width="100" height="65" itemprop="image" class="entry-thumb" src="https://radio.foxnews.com/wp-content/uploads/2020/06/Lincoln-Statue-100x65.jpg" alt="" title="Sen. Mike Lee: What We&#8217;re Witnessing Really Is An All-Out War On The Founding Of Our Country By The Elite Liberal Media"/></a></div>
+        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://radio.foxnews.com/2020/06/25/sen-mike-lee-what-were-witnessing-really-is-an-all-out-war-on-the-founding-of-our-country-by-the-elite-liberal-media/" rel="bookmark" title="Sen. Mike Lee: What We&#8217;re Witnessing Really Is An All-Out War On The Founding Of Our Country By The Elite Liberal Media">Sen. Mike Lee: What We&#8217;re Witnessing Really Is An All-Out War On The Founding Of Our Country By The Elite Liberal Media</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2020-06-25T12:23:16+00:00" >Jun 25, 2020</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+        </div>
+
+        <meta itemprop="author" content = "Peter Caterina">        </div>
+
+        
+	</div> <!-- ./span4 --></div><!--./row-fluid--></div></div> <!-- ./block1 -->
+		</div> 
+	</div> 
+</div>
+</div>
+
+                    
+        </div>
+        
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+<div class="td-sub-footer-wrap">
+    <div class="container ">
+        <div class="row">
+            <div class="span12">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                        <div class="row-fluid ">
+                            <div class="span4 td-sub-footer-copy">
+                                &copy; 2020 FOX News Radio                            </div>
+                            <div class="span8 td-sub-footer-menu">
+
+                                <div class="menu-bottom-menu-container"><ul id="menu-bottom-menu" class=""><li id="menu-item-113874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-113874"><a href="https://www.foxnews.com/about/privacy-policy/">New Privacy Policy</a></li>
+<li id="menu-item-113875" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-113875"><a href="https://www.foxnews.com/about/terms-of-use">New Terms of Use</a></li>
+<li id="menu-item-113876" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-113876"><a href="https://www.foxnews.com/about/terms-new/">(What&#8217;s New)</a></li>
+<li id="menu-item-132908" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-132908"><a href="https://www.foxnews.com/donotsell">Do Not Sell My Personal Information</a></li>
+</ul></div>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<div class="td-sp td-scroll-up"></div>
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2014
+        Version: 4.6.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 5efac4f3155c7
+    -->
+
+    
+            <style type="text/css" media="screen">
+                .td-sub-footer-menu li {
+  display: inline-block;
+  /* position: relative; */
+  zoom: 1;
+}
+
+.block-title,
+    .sf-menu li a:hover,
+    .sf-menu .sfHover a,
+    .sf-menu .current-menu-ancestor a,
+    .sf-menu .current-category-ancestor a,
+    .header-search-wrap
+    .dropdown-menu,
+    .sf-menu > .current-menu-item > a,
+    .ui-tabs-nav,
+    .woocommerce .product .woocommerce-tabs ul.tabs,
+    .td-forum-list-head,
+    .td-login-panel-title
+    {
+        border-color: #000000;
+    }
+
+/*.block-title a {
+        border-radius: 0px 20px 20px 0px;
+     }*/
+
+.td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	color:#000000 !important;
+	
+    }
+
+.subscribe-link {
+  font-size:20px !important;
+  color:white !important;
+  text-decoration:none !important;
+}
+
+.itunes-subscribe-box {
+background-color:#82498C;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.google-play-subscribe-box  {
+background-color:#ff5722;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.twitter-subscribe-box {
+background-color:#37b4f2;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+
+.RSS-subscribe-box {
+background-color:#f2ad37;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.tunein-subscribe-box {
+font-family: 'pt sans', sans-serif;
+background-color:#36B4A7;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.stitcher-subscribe-box {
+font-family: 'pt sans', sans-serif;
+background-color:black;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.td-grid-wrap  {
+       padding-top: 32px;
+}
+
+#rotator  {
+      width: 300px;       
+      margin: 0 auto; 
+}
+
+.entry-crumbs  {
+      top: -20px;
+      color: black;
+   }
+
+.entry-crumbs a  {
+      color: black;
+}
+
+.entry-crumbs a:hover  {
+      color: black !important;
+}
+
+.header-logo-wrap  {
+      margin-bottom: 20px !important;
+}
+
+
+.main-headline {
+font-family: ubuntu, 'PT Sans', sans-serif;
+font-weight: bold;
+}
+
+/* Make videos and iframes responsive */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.columnpadding  {
+    padding: 20px;
+}
+
+
+.columnwhitebackground a  {
+
+background-color: white !important;
+}
+
+#rotator   {
+    
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    margin-top: -8px;
+    }
+     
+
+
+  .premiumrotate  {
+background-color:  #4c4c4c;
+width: 300px;
+margin: 0 auto;
+text-align: center;
+font-family: "pt sans", sans-serif;
+font-size: 120%;
+    }
+
+.premiumrotate a  {
+color: white;
+}
+
+.textmiddle  {
+   vertical-align: middle;
+}
+
+.tabber-image  {
+    display: none;
+}
+
+@media only screen and (max-width :1025px), only screen and (max-device-width :1025px) {
+   .tabber-image {
+    display: block;
+}
+}
+
+
+
+/* Hide Author On Posts */
+.td-block-author {
+display: none;
+}
+
+.aio-icon-header h3.aio-icon-title {
+font-size: 28px;
+}
+
+.afmw-header  {
+text-align: center; 
+color: white;
+ font-weight: bold;
+ line-height: 2em;
+font-size: 180%
+}
+
+.podcastheadertext  {
+text-align: center;
+ color: white;
+ font-weight: bold;
+ font-size: 2.5em;
+ line-height: 2em;
+}
+
+.podcastheadertextlong  {
+text-align: center;
+ color: white;
+ font-weight: bold;
+ font-size: 180%;
+ line-height: 2em;
+}
+
+.podcastdescriptiontext  {
+color: #ffffff;
+ line-height: 2em;
+ font-weight: bold;
+ font-size: 120%;
+padding-left: 16px;
+opacity: 0.94;
+}
+
+.podcastrow img  {
+background-size: contain !important;
+}
+
+.podcastrowsmall  {
+margin: 0 auto;
+display: none;
+}
+
+
+/*@media only screen and (min-width: 1100px) {
+.afmw-header  {
+font-size: 180%;
+}
+}
+*/
+
+/*@media only screen and (min-width: 1026px) {
+.itunes-subscribe-box,
+.tunein-subscribe-box,
+.stitcher-subscribe-box,
+.google-play-subscribe-box,
+.RSS-subscribe-box {
+padding: 20px 0px 0px 35%;
+}
+}
+*/
+
+/*Media Query to hide rows under screen size specified */
+@media only screen and (max-width: 1023px) {
+.podcastrow  {
+display: none;
+}
+}
+
+/*Media Query to hide columns under screen size specified */
+@media only screen and (max-width: 767px) {
+.podcastcolumn  {
+display: none;
+}
+}
+
+/*Media Query to hide row under ipad screen size specified */
+@media only screen and (max-width: 767px) {
+.podcastipad  {
+display: none;
+}
+}
+
+
+@media only screen and (max-width: 1023px) {
+.podcastsmallsubscriptions  {
+display: block;
+}
+}
+
+@media only screen and (min-width: 1024px) {
+.podcastsmallsubscriptions  {
+display: none;
+}
+}
+
+@media only screen and (max-width: 1023px) {
+.podcastrowsmall  {
+display: block;
+}
+.podcastrowsmall img  {
+display:block;
+margin: auto;
+}
+}
+
+.infoboxfloat  {
+padding-top: 20px;
+padding-left: 30%;
+}
+
+/* Remove Edit Overlay on Pictures */
+.thumb-wrap:hover .td-admin-edit {
+ display:none;
+}
+
+@media only screen and (max-width: 1023px) {
+.onnowpic  {
+display: none;
+}
+}
+
+.onnowpic  {
+padding-left: 20px !important;
+}
+
+.onnowpic img  {
+width: 70px;
+height: 70px;
+}
+
+.onnowlarge  {
+font-weight:bold;
+font-size: 120%;
+}
+
+@media only screen and (max-width: 1023px) {
+.onnowlarge  {
+font-size: 200%;
+}
+}
+
+/* Center Mobile Logo on Menu  Bar */
+.mobile-logo-wrap img  {
+margin-top: -5.5px;
+}
+
+
+/* Hide small FNR Mobile Logo on menu bar - not needed */
+.mobile-logo-wrap  {
+    display: none;
+}
+
+@media only screen and (max-width :1025px), only screen and (max-device-width :1023px) {
+.span8.td-header-style-1  {
+float: right
+}
+}
+
+
+.block-title  {
+padding-bottom: 4px;
+margin-bottom: 4px;
+border-bottom: 2px solid #black;
+}
+
+
+
+
+
+/* Hide Page Titles On All Pages */
+
+.td-page-title {
+display: none !important;
+}
+
+.td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	color:#000000 !important;
+	
+    }
+
+
+
+.podcastbar  {
+margin: 0 auto 10px;
+max-width: 417px;
+}
+
+
+.breakingnews {
+    background-color: #FF0000;
+   /* padding:35px 0px;*/
+    padding: 16px 0px;
+    font-weight: bold;
+    font-size: 2em;
+   /* box-shadow: 10px 0px 0px #FF0000, -10px 0px 0px #FF0000;*/
+}
+
+.breakingnews a,.breakingnews a:visited,.breakingnews a:active {
+    display:block;    
+    padding: 0px 15px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1em;
+    }
+
+
+.anchored {
+    color: #fff;
+    background-color: #FF8533;
+    font-size: 2em;
+    /*padding:35px 0px;*/
+    padding:16px 0px;
+    font-weight: bold;
+    /*box-shadow: 10px 0px 0px #FF8533, -10px 0px 0px #FF8533; */
+}
+
+
+.anchored a,.anchored a:visited,.anchored a:active {
+    display:block;    
+    padding: 0px 15px;
+    color: #fff;
+    text-decoration: underline;
+    line-height: 1em;
+    }
+
+
+.promobar {
+    background-color: #2B57E2;
+    /*padding:35px 0px;*/
+    padding: 16px 0px;
+    font-weight: bold;
+    font-size: 2em;
+    /*box-shadow: 10px 0px 0px #2B57E2, -10px 0px 0px #2B57E2;*/  
+    
+}
+
+.promobar a,.promobar a:visited,.promobar a:active {
+    color: #fff;
+    display:block;    
+    padding-left: 50px;
+    text-decoration: none;
+    line-height: 1em;
+    }
+
+.podcastbar  {
+margin-bottom: 10px;
+}
+
+.entry-category  {
+display:  none;
+}
+.td-category-page-sub-ind  {
+display: none;
+}
+
+
+/*Hides Row For Testing Purposes*/
+.hiderow  {
+display: none !important;
+}
+
+@media only screen and (max-width :1025px), only screen and (max-device-width :1025px) {
+   #network {
+    display: none;
+}
+}
+
+/*remove title from More Articles box making it smaller*/
+
+.td-more-articles-box-title  {
+display: none;
+}
+
+/*Add some styling to Megacast list of shows columns on its podcast page*/
+
+.megacast  {
+padding-left: 10%; 
+width: 200px; 
+float: left;  
+font-weight: bold;
+}
+
+/*Make a parent div width 100*/
+.fullwidthdiv  {
+width: 100%;
+}
+
+/*Move Grab The Podcast Text To the Right and size font*/
+
+.buttontextpadding span:nth-child(3) {
+margin-left: 35px;
+font-size: 90%
+}
+
+/*aligns button text right*/
+.textalignright  {
+text-align: right;
+}
+
+/* Wrap URLs - so they are fully visible on smartphones */
+
+a {
+	word-wrap: break-word;
+}
+
+.ubtn-text  {
+      
+font-size: 1.5em;
+
+}
+
+/*Moves podcast player countdown timer UP so it doesn't cover part of title*/
+
+.spp-duration  {
+margin-top: -11px !important;
+}
+
+.urlbox  {
+color:black;
+background-color:#FEFFE9;
+border-style:solid;
+border:1px; 
+overflow-wrap: break-word;
+word-wrap: break-word;
+margin-top: 32px;
+}
+
+/*Moves the Smart Podcast Audio Player Duration Clock Up A Few Pixels*/
+body.spp .smart-track-player .spp-duration  {
+top: 18px;
+}
+
+/*Change Smart Podcast Player Text To White*/
+.spp-artist-and-title  {
+color: white !Important;
+}
+
+
+/*readjust call-to-action widget bottom margin previously set by default to 35px*/
+.ultimate-call-to-action.ult-adjust-bottom-margin  {
+margin-bottom: 0px !important;
+}
+
+
+/*CSS to color podcast subscription option boxes on podcast landing pages*/
+.googleplaybox  {
+background-color: #ff5722;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.itunesbox  {
+background-color: #82498C;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.radiocom  {
+background-color: #181b9b;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.tuneinbox  {
+background-color: #36b4a7;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.stitcherbox  {
+background-color: #000000;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.rssbox  {
+background-color: #f2ad37;
+width: 250px;
+}
+
+
+.left-icon .aio-icon-left  {
+padding: 5px 0px 0px 30px;
+}
+
+.left-icon .aio-ibd-block  {
+padding-top: 5px;
+}
+
+.left-icon .aio-icon-left .aio-icon {
+margin-right: 25px !important;
+}
+
+/*centers podcast subscription links on mobile podcast landing pages*/
+.podcastsmallsubscriptions div  {
+margin: 0 auto;
+}
+
+/*Limits FOX Family Network Bar to 1170px max*/
+#network  {
+margin: 0 auto;
+max-width: 1170px;
+}
+
+/*Aligns the Talk Show buckets inline with other content*/
+.vc_custom_1430490310963  {
+margin-left: 0px !important;
+margin-right: 0px !important;
+}
+
+/*centers highlight box content*/
+.highlightbox  {
+text-align: center;
+}
+
+/*Collapses Podcast Buckets into single column*/
+@media screen and (max-width: 1018px)  {
+.collapsecolumn  { 
+width: 85% !important;
+float: none !important;
+margin: 0 auto !Important;
+}
+}
+
+
+
+
+/*Removes left padding from first podcast bucket column in mobile*/
+@media screen and (max-width: 1017px)  {
+.vc_custom_1463502092214  {
+padding-left: 0px !important;
+}
+}
+
+/*5-Minute Player Column on foxnewsradio.com home page */
+.newscastplayermargin  {
+   margin-left: 0px !important;
+   margin-right: -60px !important;
+}
+
+/*Remove bottom padding on hidden TD Social Sharing section*/
+.td-social-sharing  (
+margin-bottom: 0px !important;
+}
+
+.post {
+  position: relative;
+  padding-bottom: 0px;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.spp-play-pause svg {
+	fill: #ffffff;
+}
+
+.align-middle img {
+vertical-align: middle;
+}
+
+/*hides image on screen widths below 1200px*/
+#hideimg  {
+    display: none !important ;
+}
+
+@media only screen and (min-width : 1200px) {
+  
+ #hideimg  {
+    display: block !important;
+}
+}
+
+.spp-button-downloada svg  {
+fill: #ffffff !important;
+}
+
+.alignleftpix  {
+    display: block;    
+    float: left;
+    margin-right: 12px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.alignleftpix1 {
+    display: block;   
+    float: left;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.middlediv  {
+margin: 0 auto !important;
+}
+
+.podcastli li  {
+line-height: 2.4em !important;
+font-size: 16px;
+}
+
+.audioplayer_container  {
+display: none !important;
+}
+
+.spp-play-pause svg {
+	fill: #ffffff  !important;
+}
+
+infoboxmega  img {
+display: inline !important;
+}
+
+/* Center Podcast Streaming App Badges On Podcast Landing Pages */
+
+
+    #holder
+    {
+      position:absolute;
+      width:100%;
+      height:100%;
+    }
+
+    #holder img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+.center_column {
+      margin-left: auto;
+      margin-right: auto;
+}
+
+div.header-search  {
+#search-button[aria-label="search button"];
+}
+
+.columnimg  {
+  flex: 16.66%;
+  margin: 15px;
+}
+                </style><script type="text/javascript">/* MediaMatch v.2.0.2 - Testing css media queries in Javascript. Authors & copyright (c) 2013: WebLinc, David Knight. */
+
+window.matchMedia||(window.matchMedia=function(c){var a=c.document,w=a.documentElement,l=[],t=0,x="",h={},G=/\s*(only|not)?\s*(screen|print|[a-z\-]+)\s*(and)?\s*/i,H=/^\s*\(\s*(-[a-z]+-)?(min-|max-)?([a-z\-]+)\s*(:?\s*([0-9]+(\.[0-9]+)?|portrait|landscape)(px|em|dppx|dpcm|rem|%|in|cm|mm|ex|pt|pc|\/([0-9]+(\.[0-9]+)?))?)?\s*\)\s*$/,y=0,A=function(b){var z=-1!==b.indexOf(",")&&b.split(",")||[b],e=z.length-1,j=e,g=null,d=null,c="",a=0,l=!1,m="",f="",g=null,d=0,f=null,k="",p="",q="",n="",r="",k=!1;if(""===
+b)return!0;do{g=z[j-e];l=!1;if(d=g.match(G))c=d[0],a=d.index;if(!d||-1===g.substring(0,a).indexOf("(")&&(a||!d[3]&&c!==d.input))k=!1;else{f=g;l="not"===d[1];a||(m=d[2],f=g.substring(c.length));k=m===x||"all"===m||""===m;g=-1!==f.indexOf(" and ")&&f.split(" and ")||[f];d=g.length-1;if(k&&0<=d&&""!==f){do{f=g[d].match(H);if(!f||!h[f[3]]){k=!1;break}k=f[2];n=p=f[5];q=f[7];r=h[f[3]];q&&(n="px"===q?Number(p):"em"===q||"rem"===q?16*p:f[8]?(p/f[8]).toFixed(2):"dppx"===q?96*p:"dpcm"===q?0.3937*p:Number(p));
+k="min-"===k&&n?r>=n:"max-"===k&&n?r<=n:n?r===n:!!r;if(!k)break}while(d--)}if(k)break}}while(e--);return l?!k:k},B=function(){var b=c.innerWidth||w.clientWidth,a=c.innerHeight||w.clientHeight,e=c.screen.width,j=c.screen.height,g=c.screen.colorDepth,d=c.devicePixelRatio;h.width=b;h.height=a;h["aspect-ratio"]=(b/a).toFixed(2);h["device-width"]=e;h["device-height"]=j;h["device-aspect-ratio"]=(e/j).toFixed(2);h.color=g;h["color-index"]=Math.pow(2,g);h.orientation=a>=b?"portrait":"landscape";h.resolution=
+d&&96*d||c.screen.deviceXDPI||96;h["device-pixel-ratio"]=d||1},C=function(){clearTimeout(y);y=setTimeout(function(){var b=null,a=t-1,e=a,j=!1;if(0<=a){B();do if(b=l[e-a])if((j=A(b.mql.media))&&!b.mql.matches||!j&&b.mql.matches)if(b.mql.matches=j,b.listeners)for(var j=0,g=b.listeners.length;j<g;j++)b.listeners[j]&&b.listeners[j].call(c,b.mql);while(a--)}},10)},D=a.getElementsByTagName("head")[0],a=a.createElement("style"),E=null,u="screen print speech projection handheld tv braille embossed tty".split(" "),
+m=0,I=u.length,s="#mediamatchjs { position: relative; z-index: 0; }",v="",F=c.addEventListener||(v="on")&&c.attachEvent;a.type="text/css";a.id="mediamatchjs";D.appendChild(a);for(E=c.getComputedStyle&&c.getComputedStyle(a)||a.currentStyle;m<I;m++)s+="@media "+u[m]+" { #mediamatchjs { position: relative; z-index: "+m+" } }";a.styleSheet?a.styleSheet.cssText=s:a.textContent=s;x=u[1*E.zIndex||0];D.removeChild(a);B();F(v+"resize",C);F(v+"orientationchange",C);return function(a){var c=t,e={matches:!1,
+media:a,addListener:function(a){l[c].listeners||(l[c].listeners=[]);a&&l[c].listeners.push(a)},removeListener:function(a){var b=l[c],d=0,e=0;if(b)for(e=b.listeners.length;d<e;d++)b.listeners[d]===a&&b.listeners.splice(d,1)}};if(""===a)return e.matches=!0,e;e.matches=A(a);t=l.push({mql:e,listeners:null});return e}}(window));
+
+/* Scripts for modal box on embed video button */
+
+
+
+
+var closethis = document.querySelectorAll('.close'), y;
+for (y=0; y<closethis.length; y++)
+closethis[y].addEventListener("click", function() {
+   var noneofthis = document.querySelectorAll('.bg-modal'), z;
+   for (z=0; z < noneofthis.length; z++) 
+   noneofthis[z].style.display = "none";
+});
+
+</script><script type="text/html" id="wpb-modifications"></script><link rel='stylesheet' id='vc_animate-css-css'  href='https://radio.foxnews.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.2.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/themes/Newspaper/js/td_external.js?ver=4.6.2'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/themes/Newspaper/js/full_compact/site.js?ver=4.6.2'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-includes/js/wp-embed.min.js?ver=c6c246594a63b10bb3a4a7a2072d6bd8'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.2.0'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.2.0'></script>
+<script type='text/javascript' src='https://radio.foxnews.com/wp-includes/js/comment-reply.min.js?ver=c6c246594a63b10bb3a4a7a2072d6bd8'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
+
+Served from: radio.foxnews.com @ 2020-06-30 00:52:03 by W3 Total Cache
+-->
